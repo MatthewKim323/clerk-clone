@@ -1,0 +1,16 @@
+import fs from 'node:fs';
+import {launch,newCtx,load,reveal,stitchFullPage} from '../tooling/1to1/src/lib/browser.ts';
+const browser=await launch(true);
+const context=await newCtx(browser,{width:810,height:900},2);
+const page=await context.newPage();
+const errors:any[]=[];
+page.on('console',message=>{if(message.type()==='error')errors.push({type:'console',text:message.text(),location:message.location()})});
+page.on('pageerror',error=>errors.push({type:'pageerror',message:error.message}));
+page.on('response',response=>{if(response.status()>=400)errors.push({type:'response',url:response.url(),status:response.status()})});
+page.on('requestfailed',request=>errors.push({type:'requestfailed',url:request.url(),error:request.failure()}));
+await load(page,'http://localhost:3781/',300);
+await reveal(page);
+if(process.argv.includes('--stitch'))await stitchFullPage(page,810,900,'reference/site/build/error-check-810.png',2,{chunkWaitMs:500,wheelNudge:true});
+fs.writeFileSync('reference/site/build/error-check-810.json',JSON.stringify(errors,null,2));
+console.log(JSON.stringify(errors,null,2));
+await context.close();await browser.close();
