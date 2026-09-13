@@ -1,0 +1,778 @@
+{
+  "/cli": [],
+  "/github-student-developer-pack": [],
+  "/nextjs-authentication": [
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "header",
+        "className": "group/hero dark relative isolate -mt-16 overflow-hidden bg-[#0A0A0B] pt-16",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "light bg-gray-50 pt-20 pb-7 sm:pt-32",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "light isolate overflow-hidden bg-gray-100 py-20 sm:pt-32 sm:pb-28",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark isolate overflow-hidden bg-[#0A0A0B] py-20 sm:py-32",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "light -mb-96 overflow-hidden bg-gray-50 pb-96",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/components/pricing-table": [],
+  "/docs/nextjs/getting-started/quickstart": [],
+  "/legal/website-terms": [],
+  "/changelog/2026-09-08-device-authorization-grant": [],
+  "/company": [],
+  "/components/sign-up": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative mt-[-4.5rem]",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "pt-20 pb-40 mx-auto w-full px-6 sm:max-w-[40rem] md:max-w-[48rem] md:px-8 lg:max-w-[64rem] xl:max-w-[79rem]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/billing": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-white shadow-[0_-9px_11px_-10px_rgb(0_0_0/0.05),0_-0.25px_0px_0.25px_rgb(0_0_0/0.05)]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-50",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark bg-[#0A0A0B]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative z-10 bg-gray-50",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/llm-leaderboard": [],
+  "/legal": [],
+  "/components/checkout-button": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 pb-43 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "pt-20 pb-28 lg:pb-32 mx-auto w-full px-6 sm:max-w-[40rem] md:max-w-[48rem] md:px-8 lg:max-w-[64rem] xl:max-w-[79rem]",
+        "parent": 1,
+        "contains": false
+      }
+    }
+  ],
+  "/pricing": [],
+  "/components/theme-editor": [],
+  "/components/user-profile": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative mt-[-4.5rem]",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "pt-20 pb-40 mx-auto w-full px-6 sm:max-w-[40rem] md:max-w-[48rem] md:px-8 lg:max-w-[64rem] xl:max-w-[79rem]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/expo/getting-started/quickstart": [],
+  "/legal/privacy": [],
+  "/changelog/2026-08-21-custom-oauth-scopes": [],
+  "/sign-in": [],
+  "/creators": [
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "header",
+        "className": "dark isolate overflow-hidden bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "light isolate overflow-hidden bg-gray-50 px-6 md:px-8",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative overflow-hidden px-6 py-12 md:px-8 md:py-20",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "section",
+        "className": "light isolate overflow-hidden bg-gray-50 px-6 md:px-8",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/react-router/getting-started/quickstart": [],
+  "/careers": [],
+  "/changelog": [],
+  "/expo-authentication": [
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative isolate -mt-19.5 overflow-hidden bg-[#0A0A0B] pt-19.5",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/glossary": [],
+  "/changelog/2026-08-28-customize-reverification-window": [],
+  "/components/organization-profile": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative -mt-18",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/expressjs/getting-started/quickstart": [],
+  "/changelog/2026-08-25-admin-logs": [],
+  "/multi-tenancy": [],
+  "/legal/standard-terms": [],
+  "/docs/guides/configure/auth-strategies/sign-up-sign-in-options": [],
+  "/docs/tanstack-react-start/getting-started/quickstart": [],
+  "/platform": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/components/waitlist": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative mt-[-4.5rem]",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "pt-20 pb-40 mx-auto w-full px-6 sm:max-w-[40rem] md:max-w-[48rem] md:px-8 lg:max-w-[64rem] xl:max-w-[79rem]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/components/create-organization": [
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-12",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/guides/development/integrations/platforms/vercel-marketplace": [],
+  "/blog/series-c": [],
+  "/react-authentication": [
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "header",
+        "className": "group/hero dark relative isolate -mt-16 overflow-hidden bg-[#0A0A0B] pt-16",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "light isolate overflow-hidden bg-gray-100 py-20 sm:pt-32 sm:pb-28",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark @container relative isolate -mb-32 overflow-hidden bg-[#0A0A0B] pb-32",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/astro/getting-started/quickstart": [],
+  "/docs/react/getting-started/quickstart": [],
+  "/docs/guides/development/integrations/databases/supabase": [],
+  "/waitlist": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "isolate bg-gray-50",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative z-10 -mb-96 overflow-hidden border-t-[0.5px] border-black/12 bg-gray-50 pt-10 pb-96 contain-[paint] lg:pt-28",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/contact": [],
+  "/enterprise-authentication": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "section",
+        "className": "relative isolate w-full border-t-[0.5px] border-gray-950/12 bg-gray-50 dark:bg-gray-950",
+        "parent": 1,
+        "contains": false
+      }
+    }
+  ],
+  "/components/sign-in": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative mt-[-4.5rem]",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "pt-20 pb-40 mx-auto w-full px-6 sm:max-w-[40rem] md:max-w-[48rem] md:px-8 lg:max-w-[64rem] xl:max-w-[79rem]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/guides/development/integrations/overview": [],
+  "/agents": [],
+  "/docs/guides/development/integrations/databases/convex": [],
+  "/docs": [],
+  "/docs/chrome-extension/getting-started/quickstart": [],
+  "/sign-up": [],
+  "/docs/guides/billing/overview": [],
+  "/components/user-button": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative mt-[-4.5rem]",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "pt-20 pb-40 mx-auto w-full px-6 sm:max-w-[40rem] md:max-w-[48rem] md:px-8 lg:max-w-[64rem] xl:max-w-[79rem]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/blog": [],
+  "/security": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 pt-[calc(--spacing(16)_+_--spacing(20))] sm:pt-[calc(--spacing(16)_+_--spacing(32))]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-white shadow-[0_-9px_11px_-10px_rgb(0_0_0/0.05),0_-0.25px_0px_0.25px_rgb(0_0_0/0.05)]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative z-10 bg-white",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/guides/customizing-aurora/overview": [],
+  "/components/organization-list": [
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-12",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/docs/guides/organizations/overview": [],
+  "/user-authentication": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "div",
+        "className": "relative isolate overflow-hidden bg-gray-50 pb-20 sm:pb-32 mt-[-4.875rem] pt-[calc(--spacing(16)_+_--spacing(28))] sm:pt-[calc(--spacing(16)_+_--spacing(40))]",
+        "parent": 0,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/brand-assets": [],
+  "/components/organization-switcher": [
+    {
+      "theme": "light",
+      "match": {
+        "tag": "main",
+        "className": "relative mt-[-4.5rem]",
+        "id": "main",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "relative bg-gray-950 pt-32 [--focus-outline:var(--color-white)] pb-[calc(--spacing(32)_+_--spacing(11))]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "dark relative bg-gray-950 [--focus-outline:var(--color-white)]",
+        "parent": 1,
+        "contains": false
+      }
+    },
+    {
+      "theme": "dark",
+      "match": {
+        "tag": "div",
+        "className": "bg-gray-950",
+        "parent": 0,
+        "contains": false
+      }
+    }
+  ],
+  "/startups": []
+}

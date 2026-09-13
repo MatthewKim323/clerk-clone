@@ -1,0 +1,47 @@
+#header [data-aurora-dropdown] {
+  z-index: 60;
+}
+
+#header.dark a[href="/"] svg[viewBox="0 0 62 18"] > g {
+  fill: var(--logo-fill-light, currentColor);
+}
+
+#header [data-aurora-dropdown] a:focus-visible,
+#header [data-aurora-mobile] a:focus-visible,
+#header [data-aurora-mobile] button:focus-visible {
+  outline: 2px solid #6c47ff;
+  outline-offset: 3px;
+}
+
+#header [data-aurora-dropdown] a:hover {
+  background-color: rgba(19, 19, 22, 0.025);
+  border-color: rgba(19, 19, 22, 0.08);
+}
+
+#header [aria-expanded="true"] > span > span > svg {
+  rotate: 180deg;
+}
+
+#header [aria-controls="mobile-navigation"] svg path {
+  transition: d 300ms cubic-bezier(0.33, 1, 0.68, 1);
+}
+
+#header [data-aurora-mobile] [hidden] {
+  display: none !important;
+}
+
+#header [data-aurora-mobile] > div {
+  overscroll-behavior: contain;
+}
+
+@media (width >= 768px) {
+  #header [data-aurora-mobile] {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #header [aria-controls="mobile-navigation"] svg path {
+    transition: none;
+  }
+}
