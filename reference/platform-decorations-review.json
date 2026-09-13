@@ -1,0 +1,190 @@
+{
+  "at": "2026-09-13T20:45:51.233Z",
+  "results": [
+    {
+      "name": "Normal entry has five impacts and nine streaks",
+      "ok": true,
+      "streaks": 9
+    },
+    {
+      "name": "Normal entry starts at x300 with iteration1 widths",
+      "ok": true,
+      "impacts": [
+        {
+          "id": "aurora-security-0-v",
+          "x": 300,
+          "width": 96.50214250097633
+        },
+        {
+          "id": "aurora-security-1-v",
+          "x": 300,
+          "width": 80.45317118057937
+        },
+        {
+          "id": "aurora-security-2-v",
+          "x": 300,
+          "width": 133.65864209874417
+        },
+        {
+          "id": "aurora-security-3-v",
+          "x": 300,
+          "width": 123.41208661127894
+        },
+        {
+          "id": "aurora-security-4-v",
+          "x": 300,
+          "width": 134.34807836187247
+        }
+      ],
+      "expected": [
+        {
+          "index": 0,
+          "width": 96.50214250097633,
+          "delay": 1136.790288166594,
+          "duration": 874.7022697352804
+        },
+        {
+          "index": 1,
+          "width": 80.45317118057937,
+          "delay": 3724.274848595087,
+          "duration": 997.8772827184002
+        },
+        {
+          "index": 2,
+          "width": 133.65864209874417,
+          "delay": 1302.9197951746028,
+          "duration": 897.0632893149741
+        },
+        {
+          "index": 3,
+          "width": 123.41208661127894,
+          "delay": 3920.2662886518738,
+          "duration": 963.0912624641496
+        },
+        {
+          "index": 4,
+          "width": 134.34807836187247,
+          "delay": 1786.445346479013,
+          "duration": 948.7910654039298
+        }
+      ]
+    },
+    {
+      "name": "Normal impacts begin after seeded delay",
+      "ok": true,
+      "timings": [
+        {
+          "index": 0,
+          "expectedDelayMs": 1136.790288166594,
+          "observedDelayMs": 1149.5999999642372
+        },
+        {
+          "index": 1,
+          "expectedDelayMs": 3724.274848595087,
+          "observedDelayMs": 3733.099999964237
+        },
+        {
+          "index": 2,
+          "expectedDelayMs": 1302.9197951746028,
+          "observedDelayMs": 1299.699999988079
+        },
+        {
+          "index": 3,
+          "expectedDelayMs": 3920.2662886518738,
+          "observedDelayMs": 3933
+        },
+        {
+          "index": 4,
+          "expectedDelayMs": 1786.445346479013,
+          "observedDelayMs": 1799.2999999523163
+        }
+      ]
+    },
+    {
+      "name": "Viewport exit removes all generated decorations",
+      "ok": true
+    },
+    {
+      "name": "Re-entry restarts x300 and initial seeded widths",
+      "ok": true,
+      "impacts": [
+        {
+          "id": "aurora-security-0-v",
+          "x": 300,
+          "width": 96.50214250097633
+        },
+        {
+          "id": "aurora-security-1-v",
+          "x": 300,
+          "width": 80.45317118057937
+        },
+        {
+          "id": "aurora-security-2-v",
+          "x": 300,
+          "width": 133.65864209874417
+        },
+        {
+          "id": "aurora-security-3-v",
+          "x": 300,
+          "width": 123.41208661127894
+        },
+        {
+          "id": "aurora-security-4-v",
+          "x": 300,
+          "width": 134.34807836187247
+        }
+      ]
+    },
+    {
+      "name": "Normal navigation cleanup",
+      "ok": true
+    },
+    {
+      "name": "Reduced motion has three exact static impacts",
+      "ok": true,
+      "impacts": [
+        {
+          "id": "aurora-security-0-v",
+          "x": 65,
+          "width": 125
+        },
+        {
+          "id": "aurora-security-1-v",
+          "x": 140,
+          "width": 125
+        },
+        {
+          "id": "aurora-security-2-v",
+          "x": 160,
+          "width": 125
+        }
+      ]
+    },
+    {
+      "name": "Reduced motion has no gray streaks",
+      "ok": true
+    },
+    {
+      "name": "Reduced impacts remain static",
+      "ok": true,
+      "xMutationCount": 3
+    },
+    {
+      "name": "Reduced navigation cleanup",
+      "ok": true
+    },
+    {
+      "name": "Console clean",
+      "ok": true
+    }
+  ],
+  "errors": [],
+  "pass": true,
+  "priorAttempt": {
+    "at": "2026-09-13T20:44:58.360Z",
+    "errors": [
+      "No link element found for chunk /_next/static/chunks/components_1wjaawf._.css"
+    ],
+    "pass": false
+  }
+}

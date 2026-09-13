@@ -1,0 +1,47 @@
+{
+  "status": "pass",
+  "review": "Read-only inspection of fresh production pixel triptychs, no browser launched or runtime edits.",
+  "pixelReport": "reference/final-theme-pixels.json",
+  "geometryAudit": "reference/site-components-theme-editor/build/roi-match-audit.json",
+  "nativeVariantReport": "reference/theme-editor-previews/variants-report.json",
+  "runtimeVariantReport": "reference/theme-editor-previews/runtime-variants-check.json",
+  "variantCount": 48,
+  "variantsRepeated": false,
+  "viewports": [
+    {
+      "width": 1440,
+      "errors": [],
+      "maxRegionDifferencePercent": 1.495338515120625,
+      "geometry": "ADJUSTED PASS",
+      "welcomePanelHeight": {
+        "reference": 327,
+        "build": 327
+      }
+    },
+    {
+      "width": 1024,
+      "errors": [],
+      "maxRegionDifferencePercent": 1.700249068233945,
+      "geometry": "ADJUSTED PASS",
+      "welcomePanelHeight": {
+        "reference": 327,
+        "build": 327
+      }
+    },
+    {
+      "width": 810,
+      "errors": [],
+      "maxRegionDifferencePercent": 0.784508614075469,
+      "geometry": "ORIGINAL PASS"
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "maxRegionDifferencePercent": 1.2916863300298884,
+      "geometry": "ORIGINAL PASS"
+    }
+  ],
+  "visualConclusion": "Preview card bounds, welcome panel, editor controls and mobile layout align. Remaining pixel differences are text rasterization and intentional branding. No missing native preview or layout gap was found.",
+  "referenceMeasurementsUnmodified": true,
+  "lastUsedProductionReport": "reference/component-runtime-checks/last-used-production.json"
+}

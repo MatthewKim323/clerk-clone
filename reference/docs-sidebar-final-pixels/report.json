@@ -1,0 +1,210 @@
+[
+  {
+    "route": "/docs/guides/development/integrations/platforms/vercel-marketplace",
+    "width": 1440,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.0066563949127114025
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/platforms/vercel-marketplace",
+    "width": 1024,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.010426256478450628
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/databases/supabase",
+    "width": 1440,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.007450218221494817
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/databases/supabase",
+    "width": 1024,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.009734724495362793
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/overview",
+    "width": 1440,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.00823871385706492
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/overview",
+    "width": 1024,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.011265897776868521
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/databases/convex",
+    "width": 1440,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.007399072558647027
+      }
+    ]
+  },
+  {
+    "route": "/docs/guides/development/integrations/databases/convex",
+    "width": 1024,
+    "coverage": "sidebar-only",
+    "referenceUnmodified": true,
+    "expected": {
+      "x": 4.8,
+      "y": 68,
+      "w": 282.2,
+      "h": 832
+    },
+    "actual": {
+      "x": 4.796875,
+      "y": 68,
+      "width": 282.203125,
+      "height": 832
+    },
+    "geometryExact": true,
+    "errors": [],
+    "diff": [
+      {
+        "name": "sidebar",
+        "differ": 0.009683578832515003
+      }
+    ]
+  }
+]
