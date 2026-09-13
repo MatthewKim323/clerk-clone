@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-09-13T23:12:08.626277+00:00",
+  "cleanCheckout": {
+    "checkedCommit": "6105aadeea4401e47c5b02ddaf022c2a4111ebfa",
+    "checks": {
+      "clone": {
+        "pass": true,
+        "exitCode": 0,
+        "seconds": 8.49
+      },
+      "install": {
+        "pass": true,
+        "exitCode": 0,
+        "seconds": 0.44
+      },
+      "typecheck": {
+        "pass": true,
+        "exitCode": 0,
+        "seconds": 2.21
+      },
+      "build": {
+        "pass": true,
+        "exitCode": 0,
+        "seconds": 7.67
+      }
+    },
+    "rawCapturesPresent": false,
+    "toolkitPresent": false,
+    "trackedTreeUnchanged": true
+  },
+  "publicationScan": {
+    "privatePaths": [],
+    "privateSourceTokens": [],
+    "secretPatterns": [],
+    "oversizedFiles": []
+  },
+  "historyAudit": {
+    "trackedFiles": 1355,
+    "matchesCommitPlan": true,
+    "originMetadataTracked": false,
+    "rawCapturesTracked": false,
+    "toolingTracked": false,
+    "privateEnvironmentTracked": false,
+    "aiAttributionInCommits": false,
+    "longDashesInCommits": false
+  },
+  "gitObjectIntegrity": {
+    "pass": true
+  },
+  "scope": "Checks ran against the complete application import. The following commit adds only this validation record and its gitignore exception."
+}

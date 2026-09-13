@@ -53,3 +53,5 @@ reference/**/.origin.json
 
 # Never publish private origin metadata.
 reference/**/.origin.json
+
+!reference/repository-checks.json
