@@ -1,0 +1,4 @@
+import fs from 'node:fs';
+const routes=JSON.parse(fs.readFileSync('reference/home-link-audit.json','utf8')).links.filter((row:any)=>row.classification==='uncaptured-public-page'&&!['/components/theme-editor','/react-authentication','/nextjs-authentication','/expo-authentication'].includes(row.href)).map((row:any)=>row.href);
+const groups=[routes.filter((route:string)=>route==='/glossary'||route.startsWith('/legal')),routes.filter((route:string)=>route!=='/glossary'&&!route.startsWith('/legal'))];
+await Promise.all(groups.map(async(group,index)=>{const log=fs.openSync(`reference/additional-static-pixels-${index}.log`,'w');const child=Bun.spawn(['bun','scripts/verify-pixels.ts',group.join(','),'1440,1024,810,390',`additional-static-pixels-${index}`],{stdout:log,stderr:log});const code=await child.exited;fs.closeSync(log);console.log(JSON.stringify({index,code,routes:group}));}));
