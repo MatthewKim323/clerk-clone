@@ -1,0 +1,2176 @@
+{
+  "updatedAt": "2026-09-13T21:45:51.974618+00:00",
+  "base": "http://localhost:3781",
+  "workers": 2,
+  "routeCount": 64,
+  "complete": 64,
+  "originalRule": "src/rig/verify.ts, first candidate within 3 CSS px of section y",
+  "heightTolerance": 0,
+  "deviceScaleFactor": 2,
+  "waitMs": 100,
+  "routes": [
+    {
+      "route": "/cli",
+      "reference": "site-cli",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-cli/build/verify.json",
+      "originalReport": "reference/site-cli/build/verify-original.json",
+      "audit": "reference/site-cli/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/github-student-developer-pack",
+      "reference": "site-github-student-developer-pack",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-github-student-developer-pack/build/verify.json",
+      "originalReport": "reference/site-github-student-developer-pack/build/verify-original.json",
+      "audit": "reference/site-github-student-developer-pack/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/nextjs/getting-started/quickstart",
+      "reference": "site-docs-nextjs-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-nextjs-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-nextjs-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-nextjs-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/sign-in",
+      "reference": "site-sign-in",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-sign-in/build/verify.json",
+      "originalReport": "reference/site-sign-in/build/verify-original.json",
+      "audit": "reference/site-sign-in/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/pricing-table",
+      "reference": "site-components-pricing-table",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-pricing-table/build/verify.json",
+      "originalReport": "reference/site-components-pricing-table/build/verify-original.json",
+      "audit": "reference/site-components-pricing-table/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/nextjs-authentication",
+      "reference": "site-nextjs-authentication",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-nextjs-authentication/build/verify.json",
+      "originalReport": "reference/site-nextjs-authentication/build/verify-original.json",
+      "audit": "reference/site-nextjs-authentication/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/changelog/2026-09-08-device-authorization-grant",
+      "reference": "site-changelog-2026-09-08-device-authorization-grant",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-changelog-2026-09-08-device-authorization-grant/build/verify.json",
+      "originalReport": "reference/site-changelog-2026-09-08-device-authorization-grant/build/verify-original.json",
+      "audit": "reference/site-changelog-2026-09-08-device-authorization-grant/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/sign-up",
+      "reference": "site-components-sign-up",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-sign-up/build/verify.json",
+      "originalReport": "reference/site-components-sign-up/build/verify-original.json",
+      "audit": "reference/site-components-sign-up/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/legal/website-terms",
+      "reference": "site-legal-website-terms",
+      "status": "ADJUSTED PASS",
+      "verificationKind": "adjusted",
+      "originalPass": false,
+      "pass": true,
+      "report": "reference/site-legal-website-terms/build/verify.json",
+      "originalReport": "reference/site-legal-website-terms/build/verify-original.json",
+      "audit": "reference/site-legal-website-terms/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ADJUSTED PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/billing",
+      "reference": "site-billing",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-billing/build/verify.json",
+      "originalReport": "reference/site-billing/build/verify-original.json",
+      "audit": "reference/site-billing/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/company",
+      "reference": "site-company",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-company/build/verify.json",
+      "originalReport": "reference/site-company/build/verify-original.json",
+      "audit": "reference/site-company/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/legal",
+      "reference": "site-legal",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-legal/build/verify.json",
+      "originalReport": "reference/site-legal/build/verify-original.json",
+      "audit": "reference/site-legal/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/pricing",
+      "reference": "site-pricing",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-pricing/build/verify.json",
+      "originalReport": "reference/site-pricing/build/verify-original.json",
+      "audit": "reference/site-pricing/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/checkout-button",
+      "reference": "site-components-checkout-button",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-checkout-button/build/verify.json",
+      "originalReport": "reference/site-components-checkout-button/build/verify-original.json",
+      "audit": "reference/site-components-checkout-button/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/llm-leaderboard",
+      "reference": "site-llm-leaderboard",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-llm-leaderboard/build/verify.json",
+      "originalReport": "reference/site-llm-leaderboard/build/verify-original.json",
+      "audit": "reference/site-llm-leaderboard/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/theme-editor",
+      "reference": "site-components-theme-editor",
+      "status": "ADJUSTED PASS",
+      "verificationKind": "adjusted",
+      "originalPass": false,
+      "pass": true,
+      "report": "reference/site-components-theme-editor/build/verify.json",
+      "originalReport": "reference/site-components-theme-editor/build/verify-original.json",
+      "audit": "reference/site-components-theme-editor/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ADJUSTED PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ADJUSTED PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/expo/getting-started/quickstart",
+      "reference": "site-docs-expo-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-expo-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-expo-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-expo-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/user-profile",
+      "reference": "site-components-user-profile",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-user-profile/build/verify.json",
+      "originalReport": "reference/site-components-user-profile/build/verify-original.json",
+      "audit": "reference/site-components-user-profile/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/legal/privacy",
+      "reference": "site-legal-privacy",
+      "status": "ADJUSTED PASS",
+      "verificationKind": "adjusted",
+      "originalPass": false,
+      "pass": true,
+      "report": "reference/site-legal-privacy/build/verify.json",
+      "originalReport": "reference/site-legal-privacy/build/verify-original.json",
+      "audit": "reference/site-legal-privacy/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ADJUSTED PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/organization-profile",
+      "reference": "site-components-organization-profile",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-organization-profile/build/verify.json",
+      "originalReport": "reference/site-components-organization-profile/build/verify-original.json",
+      "audit": "reference/site-components-organization-profile/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/changelog/2026-08-21-custom-oauth-scopes",
+      "reference": "site-changelog-2026-08-21-custom-oauth-scopes",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-changelog-2026-08-21-custom-oauth-scopes/build/verify.json",
+      "originalReport": "reference/site-changelog-2026-08-21-custom-oauth-scopes/build/verify-original.json",
+      "audit": "reference/site-changelog-2026-08-21-custom-oauth-scopes/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/react-router/getting-started/quickstart",
+      "reference": "site-docs-react-router-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-react-router-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-react-router-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-react-router-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/careers",
+      "reference": "site-careers",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-careers/build/verify.json",
+      "originalReport": "reference/site-careers/build/verify-original.json",
+      "audit": "reference/site-careers/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/creators",
+      "reference": "site-creators",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-creators/build/verify.json",
+      "originalReport": "reference/site-creators/build/verify-original.json",
+      "audit": "reference/site-creators/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/changelog",
+      "reference": "site-changelog",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-changelog/build/verify.json",
+      "originalReport": "reference/site-changelog/build/verify-original.json",
+      "audit": "reference/site-changelog/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/expressjs/getting-started/quickstart",
+      "reference": "site-docs-expressjs-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-expressjs-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-expressjs-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-expressjs-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/changelog/2026-08-28-customize-reverification-window",
+      "reference": "site-changelog-2026-08-28-customize-reverification-window",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-changelog-2026-08-28-customize-reverification-window/build/verify.json",
+      "originalReport": "reference/site-changelog-2026-08-28-customize-reverification-window/build/verify-original.json",
+      "audit": "reference/site-changelog-2026-08-28-customize-reverification-window/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/expo-authentication",
+      "reference": "site-expo-authentication",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-expo-authentication/build/verify.json",
+      "originalReport": "reference/site-expo-authentication/build/verify-original.json",
+      "audit": "reference/site-expo-authentication/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/changelog/2026-08-25-admin-logs",
+      "reference": "site-changelog-2026-08-25-admin-logs",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-changelog-2026-08-25-admin-logs/build/verify.json",
+      "originalReport": "reference/site-changelog-2026-08-25-admin-logs/build/verify-original.json",
+      "audit": "reference/site-changelog-2026-08-25-admin-logs/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/glossary",
+      "reference": "site-glossary",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-glossary/build/verify.json",
+      "originalReport": "reference/site-glossary/build/verify-original.json",
+      "audit": "reference/site-glossary/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/multi-tenancy",
+      "reference": "site-multi-tenancy",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-multi-tenancy/build/verify.json",
+      "originalReport": "reference/site-multi-tenancy/build/verify-original.json",
+      "audit": "reference/site-multi-tenancy/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/configure/auth-strategies/sign-up-sign-in-options",
+      "reference": "site-docs-guides-configure-auth-strategies-sign-up-sign-in-options",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-configure-auth-strategies-sign-up-sign-in-options/build/verify.json",
+      "originalReport": "reference/site-docs-guides-configure-auth-strategies-sign-up-sign-in-options/build/verify-original.json",
+      "audit": "reference/site-docs-guides-configure-auth-strategies-sign-up-sign-in-options/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/legal/standard-terms",
+      "reference": "site-legal-standard-terms",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-legal-standard-terms/build/verify.json",
+      "originalReport": "reference/site-legal-standard-terms/build/verify-original.json",
+      "audit": "reference/site-legal-standard-terms/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/tanstack-react-start/getting-started/quickstart",
+      "reference": "site-docs-tanstack-react-start-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-tanstack-react-start-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-tanstack-react-start-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-tanstack-react-start-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/platform",
+      "reference": "site-platform",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-platform/build/verify.json",
+      "originalReport": "reference/site-platform/build/verify-original.json",
+      "audit": "reference/site-platform/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/waitlist",
+      "reference": "site-components-waitlist",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-waitlist/build/verify.json",
+      "originalReport": "reference/site-components-waitlist/build/verify-original.json",
+      "audit": "reference/site-components-waitlist/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/create-organization",
+      "reference": "site-components-create-organization",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-create-organization/build/verify.json",
+      "originalReport": "reference/site-components-create-organization/build/verify-original.json",
+      "audit": "reference/site-components-create-organization/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/development/integrations/platforms/vercel-marketplace",
+      "reference": "site-docs-guides-development-integrations-platforms-vercel-marketplace",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-development-integrations-platforms-vercel-marketplace/build/verify.json",
+      "originalReport": "reference/site-docs-guides-development-integrations-platforms-vercel-marketplace/build/verify-original.json",
+      "audit": "reference/site-docs-guides-development-integrations-platforms-vercel-marketplace/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/blog/series-c",
+      "reference": "site-blog-series-c",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-blog-series-c/build/verify.json",
+      "originalReport": "reference/site-blog-series-c/build/verify-original.json",
+      "audit": "reference/site-blog-series-c/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/brand-assets",
+      "reference": "site-brand-assets",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-brand-assets/build/verify.json",
+      "originalReport": "reference/site-brand-assets/build/verify-original.json",
+      "audit": "reference/site-brand-assets/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/astro/getting-started/quickstart",
+      "reference": "site-docs-astro-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-astro-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-astro-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-astro-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/react-authentication",
+      "reference": "site-react-authentication",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-react-authentication/build/verify.json",
+      "originalReport": "reference/site-react-authentication/build/verify-original.json",
+      "audit": "reference/site-react-authentication/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/react/getting-started/quickstart",
+      "reference": "site-docs-react-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-react-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-react-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-react-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/development/integrations/databases/supabase",
+      "reference": "site-docs-guides-development-integrations-databases-supabase",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-development-integrations-databases-supabase/build/verify.json",
+      "originalReport": "reference/site-docs-guides-development-integrations-databases-supabase/build/verify-original.json",
+      "audit": "reference/site-docs-guides-development-integrations-databases-supabase/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/startups",
+      "reference": "site-startups",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-startups/build/verify.json",
+      "originalReport": "reference/site-startups/build/verify-original.json",
+      "audit": "reference/site-startups/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/sign-up",
+      "reference": "site-sign-up",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-sign-up/build/verify.json",
+      "originalReport": "reference/site-sign-up/build/verify-original.json",
+      "audit": "reference/site-sign-up/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/waitlist",
+      "reference": "site-waitlist",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-waitlist/build/verify.json",
+      "originalReport": "reference/site-waitlist/build/verify-original.json",
+      "audit": "reference/site-waitlist/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/contact",
+      "reference": "site-contact",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-contact/build/verify.json",
+      "originalReport": "reference/site-contact/build/verify-original.json",
+      "audit": "reference/site-contact/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/enterprise-authentication",
+      "reference": "site-enterprise-authentication",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-enterprise-authentication/build/verify.json",
+      "originalReport": "reference/site-enterprise-authentication/build/verify-original.json",
+      "audit": "reference/site-enterprise-authentication/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/sign-in",
+      "reference": "site-components-sign-in",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-sign-in/build/verify.json",
+      "originalReport": "reference/site-components-sign-in/build/verify-original.json",
+      "audit": "reference/site-components-sign-in/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/development/integrations/overview",
+      "reference": "site-docs-guides-development-integrations-overview",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-development-integrations-overview/build/verify.json",
+      "originalReport": "reference/site-docs-guides-development-integrations-overview/build/verify-original.json",
+      "audit": "reference/site-docs-guides-development-integrations-overview/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/agents",
+      "reference": "site-agents",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-agents/build/verify.json",
+      "originalReport": "reference/site-agents/build/verify-original.json",
+      "audit": "reference/site-agents/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/development/integrations/databases/convex",
+      "reference": "site-docs-guides-development-integrations-databases-convex",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-development-integrations-databases-convex/build/verify.json",
+      "originalReport": "reference/site-docs-guides-development-integrations-databases-convex/build/verify-original.json",
+      "audit": "reference/site-docs-guides-development-integrations-databases-convex/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs",
+      "reference": "site-docs",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs/build/verify.json",
+      "originalReport": "reference/site-docs/build/verify-original.json",
+      "audit": "reference/site-docs/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/billing/overview",
+      "reference": "site-docs-guides-billing-overview",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-billing-overview/build/verify.json",
+      "originalReport": "reference/site-docs-guides-billing-overview/build/verify-original.json",
+      "audit": "reference/site-docs-guides-billing-overview/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/chrome-extension/getting-started/quickstart",
+      "reference": "site-docs-chrome-extension-getting-started-quickstart",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-chrome-extension-getting-started-quickstart/build/verify.json",
+      "originalReport": "reference/site-docs-chrome-extension-getting-started-quickstart/build/verify-original.json",
+      "audit": "reference/site-docs-chrome-extension-getting-started-quickstart/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/blog",
+      "reference": "site-blog",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-blog/build/verify.json",
+      "originalReport": "reference/site-blog/build/verify-original.json",
+      "audit": "reference/site-blog/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/user-button",
+      "reference": "site-components-user-button",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-user-button/build/verify.json",
+      "originalReport": "reference/site-components-user-button/build/verify-original.json",
+      "audit": "reference/site-components-user-button/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/organizations/overview",
+      "reference": "site-docs-guides-organizations-overview",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-organizations-overview/build/verify.json",
+      "originalReport": "reference/site-docs-guides-organizations-overview/build/verify-original.json",
+      "audit": "reference/site-docs-guides-organizations-overview/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/security",
+      "reference": "site-security",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-security/build/verify.json",
+      "originalReport": "reference/site-security/build/verify-original.json",
+      "audit": "reference/site-security/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/docs/guides/customizing-aurora/overview",
+      "reference": "site-docs-guides-customizing-aurora-overview",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-docs-guides-customizing-aurora-overview/build/verify.json",
+      "originalReport": "reference/site-docs-guides-customizing-aurora-overview/build/verify-original.json",
+      "audit": "reference/site-docs-guides-customizing-aurora-overview/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/organization-list",
+      "reference": "site-components-organization-list",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-organization-list/build/verify.json",
+      "originalReport": "reference/site-components-organization-list/build/verify-original.json",
+      "audit": "reference/site-components-organization-list/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/user-authentication",
+      "reference": "site-user-authentication",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-user-authentication/build/verify.json",
+      "originalReport": "reference/site-user-authentication/build/verify-original.json",
+      "audit": "reference/site-user-authentication/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "route": "/components/organization-switcher",
+      "reference": "site-components-organization-switcher",
+      "status": "ORIGINAL PASS",
+      "verificationKind": "original",
+      "originalPass": true,
+      "pass": true,
+      "report": "reference/site-components-organization-switcher/build/verify.json",
+      "originalReport": "reference/site-components-organization-switcher/build/verify-original.json",
+      "audit": "reference/site-components-organization-switcher/build/roi-match-audit.json",
+      "widths": [
+        {
+          "width": 1440,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 1024,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 810,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        },
+        {
+          "width": 390,
+          "status": "ORIGINAL PASS",
+          "pass": true
+        }
+      ]
+    }
+  ],
+  "blackout": "not-checked",
+  "pass": true,
+  "reportKind": "merged-production-verification",
+  "sourceReports": [
+    "reference/verification-batches/pre-final-fixes/routes-verification-final.json",
+    "reference/routes-verification-retest.json"
+  ],
+  "retests": [
+    {
+      "report": "reference/routes-verification-retest.json",
+      "log": "reference/routes-verification-retest.log",
+      "updatedAt": "2026-09-13T21:44:11.262Z",
+      "workers": 1,
+      "waitMs": 100,
+      "routeCount": 8,
+      "viewportCount": 32,
+      "routes": [
+        "/nextjs-authentication",
+        "/components/theme-editor",
+        "/expo-authentication",
+        "/docs/guides/development/integrations/platforms/vercel-marketplace",
+        "/react-authentication",
+        "/docs/guides/development/integrations/databases/supabase",
+        "/docs/guides/development/integrations/overview",
+        "/docs/guides/development/integrations/databases/convex"
+      ],
+      "pass": true
+    }
+  ],
+  "focusedChecks": [
+    {
+      "report": "reference/docs-label-final-check.json",
+      "checkCount": 8,
+      "pass": true
+    }
+  ],
+  "summary": {
+    "routeStatusCounts": {
+      "ORIGINAL PASS": 61,
+      "ADJUSTED PASS": 3
+    },
+    "viewportStatusCounts": {
+      "ORIGINAL PASS": 252,
+      "ADJUSTED PASS": 4
+    },
+    "sectionCount": 1150,
+    "unmatchedSectionCount": 0,
+    "consoleErrorCount": 0,
+    "exactPageHeightCount": 256,
+    "referenceReportsUnmodified": true
+  }
+}

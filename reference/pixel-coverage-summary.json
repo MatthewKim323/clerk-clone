@@ -1,0 +1,49 @@
+{
+  "reports": [
+    "static-pixels-0",
+    "static-pixels-1",
+    "blog-pixels-final",
+    "changelog-pixels-final",
+    "marketing-stable-pixels",
+    "marketing-motion-pixels",
+    "component-pages-pixel-verification",
+    "component-final-pixel-verification",
+    "additional-static-pixels-0",
+    "additional-static-pixels-1",
+    "additional-glossary-1024-final",
+    "additional-dynamic-pixels",
+    "final-changed-pixels",
+    "final-nextjs-pixels",
+    "final-react-pixels",
+    "final-theme-pixels",
+    "final-react-mobile-pixels"
+  ],
+  "routeViewportPairs": 256,
+  "captureFailures": [],
+  "browserWarnings": [
+    {
+      "route": "/components/organization-profile",
+      "width": 390,
+      "errors": [
+        "No link element found for chunk /_next/static/chunks/components_theme-editor_1lrwam8.css"
+      ],
+      "report": "component-pages-pixel-verification"
+    },
+    {
+      "route": "/components/waitlist",
+      "width": 1024,
+      "errors": [
+        "No link element found for chunk /_next/static/chunks/components_theme-editor_1lrwam8.css"
+      ],
+      "report": "component-pages-pixel-verification"
+    },
+    {
+      "route": "/legal/privacy",
+      "width": 1024,
+      "errors": [
+        "No link element found for chunk /_next/static/chunks/components_theme-editor_1lrwam8.css"
+      ],
+      "report": "additional-static-pixels-0"
+    }
+  ]
+}

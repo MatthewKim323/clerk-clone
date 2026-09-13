@@ -1,0 +1,25 @@
+{
+  "reviewedAt": "2026-09-13T21:58:18.977Z",
+  "studentHero": {
+    "change": "Restored seven native rings",
+    "largestCurrentSectionDifference": 0.019199433227063408
+  },
+  "platform": {
+    "largestCurrentSectionDifference": 0.009032672491926472
+  },
+  "mobileLegalParagraph": {
+    "before": 0.14493157305657306,
+    "after": 0.003390186202686203,
+    "finding": "Native line wrapping restored; remaining pixels are the local documentation label and wordmark."
+  },
+  "billingTabletDemo": {
+    "difference": 0.05286148644999622,
+    "finding": "Captured checkout success and local trial-selection stages occur at different points in the native sequence; card geometry and styles align."
+  },
+  "componentReview": "component-runtime-checks/final-notes.md",
+  "sdkReview": "sdk-pixel-review.json",
+  "knownDifferences": [
+    "Aurora text, editable wordmarks, package examples and some paragraph wraps intentionally differ.",
+    "Native tickers, input tours, shaders and scroll reveals can be captured at different phases."
+  ]
+}
