@@ -1,0 +1,96 @@
+{
+  "routes": [
+    {
+      "route": "/components/user-profile",
+      "nativeTours": 0,
+      "legacySections": 17,
+      "legacyTours": 16,
+      "presets": 0,
+      "legacyPresetFrames": 4
+    },
+    {
+      "route": "/components/sign-up",
+      "nativeTours": 0,
+      "legacySections": 13,
+      "legacyTours": 12,
+      "presets": 0,
+      "legacyPresetFrames": 8
+    },
+    {
+      "route": "/components/sign-in",
+      "nativeTours": 0,
+      "legacySections": 8,
+      "legacyTours": 7,
+      "presets": 0,
+      "legacyPresetFrames": 6
+    },
+    {
+      "route": "/components/organization-list",
+      "nativeTours": 5,
+      "legacySections": 0,
+      "legacyTours": 0,
+      "presets": 4,
+      "legacyPresetFrames": 0
+    },
+    {
+      "route": "/components/organization-switcher",
+      "nativeTours": 0,
+      "legacySections": 7,
+      "legacyTours": 6,
+      "presets": 0,
+      "legacyPresetFrames": 8
+    },
+    {
+      "route": "/components/checkout-button",
+      "nativeTours": 5,
+      "legacySections": 0,
+      "legacyTours": 0,
+      "presets": 4,
+      "legacyPresetFrames": 0
+    },
+    {
+      "route": "/components/organization-profile",
+      "nativeTours": 0,
+      "legacySections": 15,
+      "legacyTours": 14,
+      "presets": 0,
+      "legacyPresetFrames": 4
+    },
+    {
+      "route": "/components/create-organization",
+      "nativeTours": 2,
+      "legacySections": 0,
+      "legacyTours": 0,
+      "presets": 5,
+      "legacyPresetFrames": 0
+    },
+    {
+      "route": "/components/pricing-table",
+      "nativeTours": 4,
+      "legacySections": 0,
+      "legacyTours": 0,
+      "presets": 5,
+      "legacyPresetFrames": 0
+    },
+    {
+      "route": "/components/user-button",
+      "nativeTours": 0,
+      "legacySections": 5,
+      "legacyTours": 4,
+      "presets": 0,
+      "legacyPresetFrames": 8
+    },
+    {
+      "route": "/components/waitlist",
+      "nativeTours": 0,
+      "legacySections": 4,
+      "legacyTours": 3,
+      "presets": 0,
+      "legacyPresetFrames": 6
+    }
+  ],
+  "reducedMotion": "Loops disabled, initial presentation and direct controls preserved",
+  "resize": "Keyed viewport remount cleans prior timers/listeners/observers and applies captured native DOM",
+  "cleanup": "All attached attributes, contents, event handlers, timers, intersection observers, and animation controls restored or stopped",
+  "backendCalls": false
+}

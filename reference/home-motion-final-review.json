@@ -1,0 +1,114 @@
+{
+  "status": "PASS_WITH_NATIVE_PHASE_VARIATION",
+  "reviewedAt": "2026-09-13T21:18:03.638Z",
+  "scenarios": [
+    {
+      "scenario": "load",
+      "evidence": "reference/site/build/frames/final-retest/load",
+      "buildSheet": "reference/site/build/frames/final-retest/load-build.png",
+      "sourceSheet": "reference/site/build/frames/final-retest/load-reference.png",
+      "frameCount": 118,
+      "sourceFrameCount": 126,
+      "errors": [],
+      "motionSummary": {
+        "firstMotionMs": 392,
+        "lastMotionMs": 3755,
+        "motionFrames": 24,
+        "totalFrames": 118
+      },
+      "finding": "The first visible H1 uses the correct bold face; preceding captured frames are blank."
+    },
+    {
+      "scenario": "scroll-b2b-saas",
+      "evidence": "reference/site/build/frames/final/scroll-b2b-saas",
+      "buildSheet": "reference/site/build/frames/final/scroll-b2b-saas-build.png",
+      "sourceSheet": "reference/site/build/frames/final/scroll-b2b-saas-reference.png",
+      "frameCount": 52,
+      "sourceFrameCount": 54,
+      "errors": [],
+      "motionSummary": {
+        "firstMotionMs": 127,
+        "lastMotionMs": 1943,
+        "motionFrames": 45,
+        "totalFrames": 52
+      },
+      "finding": "Section placement and scroll reveal agree; both sequences settle at approximately 1.95 seconds."
+    },
+    {
+      "scenario": "scroll-footer",
+      "evidence": "reference/site/build/frames/final/scroll-footer",
+      "buildSheet": "reference/site/build/frames/final/scroll-footer-build.png",
+      "sourceSheet": "reference/site/build/frames/final/scroll-footer-reference.png",
+      "frameCount": 136,
+      "sourceFrameCount": 113,
+      "errors": [],
+      "motionSummary": {
+        "firstMotionMs": 121,
+        "lastMotionMs": 4373,
+        "motionFrames": 134,
+        "totalFrames": 136
+      },
+      "finding": "Footer placement and ongoing testimonial motion agree."
+    },
+    {
+      "scenario": "click-3-products",
+      "evidence": "reference/site/build/frames/final-fixed/click-3-products",
+      "buildSheet": "reference/site/build/frames/final-fixed/click-3-products-build.png",
+      "sourceSheet": "reference/site/build/frames/final-fixed/click-3-products-reference.png",
+      "frameCount": 151,
+      "sourceFrameCount": 153,
+      "errors": [],
+      "motionSummary": {
+        "firstMotionMs": 104,
+        "lastMotionMs": 7032,
+        "motionFrames": 62,
+        "totalFrames": 151
+      },
+      "finding": "Open, close and product-detail interaction retain the captured layout and motion. The missing texture is resolved."
+    },
+    {
+      "scenario": "hover-5-signup",
+      "evidence": "reference/site/build/frames/final-fixed/hover-5-signup",
+      "buildSheet": "reference/site/build/frames/final-fixed/hover-5-signup-build.png",
+      "sourceSheet": "reference/site/build/frames/final-fixed/hover-5-signup-reference.png",
+      "frameCount": 46,
+      "sourceFrameCount": 77,
+      "errors": [],
+      "motionSummary": {
+        "firstMotionMs": 1449,
+        "lastMotionMs": 1863,
+        "motionFrames": 13,
+        "totalFrames": 46
+      },
+      "finding": "Native signup tour and glint remain active. The Last used badge now changes location with the native tour state."
+    }
+  ],
+  "firstVisibleBold": {
+    "verified": true,
+    "frame": "reference/site/build/frames/final-retest/load/00002.png",
+    "timeMs": 392,
+    "precedingFrame": "reference/site/build/frames/final-retest/load/00001.png",
+    "precedingFrameBlank": true,
+    "sourceFirstVisibleMs": 365,
+    "fallbackFontFlash": false
+  },
+  "resolved": [
+    "Preloaded the exact 700 heading font.",
+    "Replaced four remaining raw image paths with local captured assets; generator mapping now handles entity-quoted CSS URLs.",
+    "Restored native LastUsed badge state bindings for shared SignUp/SignIn demos."
+  ],
+  "limitations": [
+    "This is a visual review of source-matched scenarios, not proof that every frame is pixel-identical.",
+    "Shimmer, testimonial ticker and tour states remain dependent on their native animation phase.",
+    "Frame counts vary with browser scheduling. Motion detection measures changed pixels after downsampling and is not the reduced-motion preference."
+  ],
+  "preservedFailures": [
+    "reference/site/build/frames/final/review-initial.json",
+    "reference/site/build/frames/final/load",
+    "reference/site/build/frames/final/click-3-products",
+    "reference/site/build/frames/final-retest/click-3-products"
+  ],
+  "browserClosed": true,
+  "badgeLifecycleEvidence": "reference/component-runtime-checks/last-used-production.json",
+  "badgeLifecycle": "Both SignUp and SignIn passed native swiped/reset timing, offscreen pause, responsive resize and navigation cleanup checks with no page errors."
+}
