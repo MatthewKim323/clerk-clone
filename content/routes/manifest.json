@@ -1,0 +1,322 @@
+[
+  {
+    "route": "/github-student-developer-pack",
+    "reference": "site-github-student-developer-pack",
+    "file": "content/routes/github-student-developer-pack.json"
+  },
+  {
+    "route": "/cli",
+    "reference": "site-cli",
+    "file": "content/routes/cli.json"
+  },
+  {
+    "route": "/docs/nextjs/getting-started/quickstart",
+    "reference": "site-docs-nextjs-getting-started-quickstart",
+    "file": "content/routes/docs--nextjs--getting-started--quickstart.json"
+  },
+  {
+    "route": "/sign-in",
+    "reference": "site-sign-in",
+    "file": "content/routes/sign-in.json"
+  },
+  {
+    "route": "/components/pricing-table",
+    "reference": "site-components-pricing-table",
+    "file": "content/routes/components--pricing-table.json"
+  },
+  {
+    "route": "/nextjs-authentication",
+    "reference": "site-nextjs-authentication",
+    "file": "content/routes/nextjs-authentication.json"
+  },
+  {
+    "route": "/components/sign-up",
+    "reference": "site-components-sign-up",
+    "file": "content/routes/components--sign-up.json"
+  },
+  {
+    "route": "/changelog/2026-09-08-device-authorization-grant",
+    "reference": "site-changelog-2026-09-08-device-authorization-grant",
+    "file": "content/routes/changelog--2026-09-08-device-authorization-grant.json"
+  },
+  {
+    "route": "/billing",
+    "reference": "site-billing",
+    "file": "content/routes/billing.json"
+  },
+  {
+    "route": "/legal/website-terms",
+    "reference": "site-legal-website-terms",
+    "file": "content/routes/legal--website-terms.json"
+  },
+  {
+    "route": "/company",
+    "reference": "site-company",
+    "file": "content/routes/company.json"
+  },
+  {
+    "route": "/pricing",
+    "reference": "site-pricing",
+    "file": "content/routes/pricing.json"
+  },
+  {
+    "route": "/legal",
+    "reference": "site-legal",
+    "file": "content/routes/legal.json"
+  },
+  {
+    "route": "/components/checkout-button",
+    "reference": "site-components-checkout-button",
+    "file": "content/routes/components--checkout-button.json"
+  },
+  {
+    "route": "/llm-leaderboard",
+    "reference": "site-llm-leaderboard",
+    "file": "content/routes/llm-leaderboard.json"
+  },
+  {
+    "route": "/docs/expo/getting-started/quickstart",
+    "reference": "site-docs-expo-getting-started-quickstart",
+    "file": "content/routes/docs--expo--getting-started--quickstart.json"
+  },
+  {
+    "route": "/components/theme-editor",
+    "reference": "site-components-theme-editor",
+    "file": "content/routes/components--theme-editor.json"
+  },
+  {
+    "route": "/components/user-profile",
+    "reference": "site-components-user-profile",
+    "file": "content/routes/components--user-profile.json"
+  },
+  {
+    "route": "/legal/privacy",
+    "reference": "site-legal-privacy",
+    "file": "content/routes/legal--privacy.json"
+  },
+  {
+    "route": "/careers",
+    "reference": "site-careers",
+    "file": "content/routes/careers.json"
+  },
+  {
+    "route": "/components/organization-profile",
+    "reference": "site-components-organization-profile",
+    "file": "content/routes/components--organization-profile.json"
+  },
+  {
+    "route": "/changelog/2026-08-21-custom-oauth-scopes",
+    "reference": "site-changelog-2026-08-21-custom-oauth-scopes",
+    "file": "content/routes/changelog--2026-08-21-custom-oauth-scopes.json"
+  },
+  {
+    "route": "/docs/react-router/getting-started/quickstart",
+    "reference": "site-docs-react-router-getting-started-quickstart",
+    "file": "content/routes/docs--react-router--getting-started--quickstart.json"
+  },
+  {
+    "route": "/creators",
+    "reference": "site-creators",
+    "file": "content/routes/creators.json"
+  },
+  {
+    "route": "/changelog",
+    "reference": "site-changelog",
+    "file": "content/routes/changelog.json"
+  },
+  {
+    "route": "/glossary",
+    "reference": "site-glossary",
+    "file": "content/routes/glossary.json"
+  },
+  {
+    "route": "/docs/expressjs/getting-started/quickstart",
+    "reference": "site-docs-expressjs-getting-started-quickstart",
+    "file": "content/routes/docs--expressjs--getting-started--quickstart.json"
+  },
+  {
+    "route": "/changelog/2026-08-28-customize-reverification-window",
+    "reference": "site-changelog-2026-08-28-customize-reverification-window",
+    "file": "content/routes/changelog--2026-08-28-customize-reverification-window.json"
+  },
+  {
+    "route": "/expo-authentication",
+    "reference": "site-expo-authentication",
+    "file": "content/routes/expo-authentication.json"
+  },
+  {
+    "route": "/changelog/2026-08-25-admin-logs",
+    "reference": "site-changelog-2026-08-25-admin-logs",
+    "file": "content/routes/changelog--2026-08-25-admin-logs.json"
+  },
+  {
+    "route": "/multi-tenancy",
+    "reference": "site-multi-tenancy",
+    "file": "content/routes/multi-tenancy.json"
+  },
+  {
+    "route": "/legal/standard-terms",
+    "reference": "site-legal-standard-terms",
+    "file": "content/routes/legal--standard-terms.json"
+  },
+  {
+    "route": "/docs/guides/configure/auth-strategies/sign-up-sign-in-options",
+    "reference": "site-docs-guides-configure-auth-strategies-sign-up-sign-in-options",
+    "file": "content/routes/docs--guides--configure--auth-strategies--sign-up-sign-in-options.json"
+  },
+  {
+    "route": "/docs/tanstack-react-start/getting-started/quickstart",
+    "reference": "site-docs-tanstack-react-start-getting-started-quickstart",
+    "file": "content/routes/docs--tanstack-react-start--getting-started--quickstart.json"
+  },
+  {
+    "route": "/platform",
+    "reference": "site-platform",
+    "file": "content/routes/platform.json"
+  },
+  {
+    "route": "/components/waitlist",
+    "reference": "site-components-waitlist",
+    "file": "content/routes/components--waitlist.json"
+  },
+  {
+    "route": "/components/create-organization",
+    "reference": "site-components-create-organization",
+    "file": "content/routes/components--create-organization.json"
+  },
+  {
+    "route": "/docs/guides/development/integrations/platforms/vercel-marketplace",
+    "reference": "site-docs-guides-development-integrations-platforms-vercel-marketplace",
+    "file": "content/routes/docs--guides--development--integrations--platforms--vercel-marketplace.json"
+  },
+  {
+    "route": "/blog/series-c",
+    "reference": "site-blog-series-c",
+    "file": "content/routes/blog--series-c.json"
+  },
+  {
+    "route": "/react-authentication",
+    "reference": "site-react-authentication",
+    "file": "content/routes/react-authentication.json"
+  },
+  {
+    "route": "/brand-assets",
+    "reference": "site-brand-assets",
+    "file": "content/routes/brand-assets.json"
+  },
+  {
+    "route": "/docs/astro/getting-started/quickstart",
+    "reference": "site-docs-astro-getting-started-quickstart",
+    "file": "content/routes/docs--astro--getting-started--quickstart.json"
+  },
+  {
+    "route": "/docs/react/getting-started/quickstart",
+    "reference": "site-docs-react-getting-started-quickstart",
+    "file": "content/routes/docs--react--getting-started--quickstart.json"
+  },
+  {
+    "route": "/docs/guides/development/integrations/databases/supabase",
+    "reference": "site-docs-guides-development-integrations-databases-supabase",
+    "file": "content/routes/docs--guides--development--integrations--databases--supabase.json"
+  },
+  {
+    "route": "/startups",
+    "reference": "site-startups",
+    "file": "content/routes/startups.json"
+  },
+  {
+    "route": "/sign-up",
+    "reference": "site-sign-up",
+    "file": "content/routes/sign-up.json"
+  },
+  {
+    "route": "/waitlist",
+    "reference": "site-waitlist",
+    "file": "content/routes/waitlist.json"
+  },
+  {
+    "route": "/contact",
+    "reference": "site-contact",
+    "file": "content/routes/contact.json"
+  },
+  {
+    "route": "/components/sign-in",
+    "reference": "site-components-sign-in",
+    "file": "content/routes/components--sign-in.json"
+  },
+  {
+    "route": "/enterprise-authentication",
+    "reference": "site-enterprise-authentication",
+    "file": "content/routes/enterprise-authentication.json"
+  },
+  {
+    "route": "/docs/guides/development/integrations/overview",
+    "reference": "site-docs-guides-development-integrations-overview",
+    "file": "content/routes/docs--guides--development--integrations--overview.json"
+  },
+  {
+    "route": "/agents",
+    "reference": "site-agents",
+    "file": "content/routes/agents.json"
+  },
+  {
+    "route": "/docs/guides/development/integrations/databases/convex",
+    "reference": "site-docs-guides-development-integrations-databases-convex",
+    "file": "content/routes/docs--guides--development--integrations--databases--convex.json"
+  },
+  {
+    "route": "/docs",
+    "reference": "site-docs",
+    "file": "content/routes/docs.json"
+  },
+  {
+    "route": "/docs/chrome-extension/getting-started/quickstart",
+    "reference": "site-docs-chrome-extension-getting-started-quickstart",
+    "file": "content/routes/docs--chrome-extension--getting-started--quickstart.json"
+  },
+  {
+    "route": "/docs/guides/billing/overview",
+    "reference": "site-docs-guides-billing-overview",
+    "file": "content/routes/docs--guides--billing--overview.json"
+  },
+  {
+    "route": "/blog",
+    "reference": "site-blog",
+    "file": "content/routes/blog.json"
+  },
+  {
+    "route": "/components/user-button",
+    "reference": "site-components-user-button",
+    "file": "content/routes/components--user-button.json"
+  },
+  {
+    "route": "/docs/guides/organizations/overview",
+    "reference": "site-docs-guides-organizations-overview",
+    "file": "content/routes/docs--guides--organizations--overview.json"
+  },
+  {
+    "route": "/security",
+    "reference": "site-security",
+    "file": "content/routes/security.json"
+  },
+  {
+    "route": "/docs/guides/customizing-aurora/overview",
+    "reference": "site-docs-guides-customizing-aurora-overview",
+    "file": "content/routes/docs--guides--customizing-aurora--overview.json"
+  },
+  {
+    "route": "/components/organization-list",
+    "reference": "site-components-organization-list",
+    "file": "content/routes/components--organization-list.json"
+  },
+  {
+    "route": "/user-authentication",
+    "reference": "site-user-authentication",
+    "file": "content/routes/user-authentication.json"
+  },
+  {
+    "route": "/components/organization-switcher",
+    "reference": "site-components-organization-switcher",
+    "file": "content/routes/components--organization-switcher.json"
+  }
+]
