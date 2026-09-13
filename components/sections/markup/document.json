@@ -1,0 +1,18 @@
+{
+  "htmlClass": "suisse_c1aba7e9-module__WpjB7a__variable soehnemono_a1bc168a-module__FMl8Nq__variable geistnumbers_bd8c890c-module__bH8fPa__variable h-full scroll-pt-(--root-scroll-pt,4rem) bg-(--root-bg) antialiased [--root-bg:var(--light,var(--color-gray-50))_var(--dark,var(--color-gray-950))] [font-synthesis-weight:none] signed-out neutral",
+  "bodyClass": "flex min-h-full flex-col bg-(--root-bg)",
+  "shellClass": "isolate flex flex-auto flex-col bg-(--root-bg)",
+  "sections": [
+    "announcement",
+    "hero",
+    "customers",
+    "components",
+    "authentication",
+    "notch-auth",
+    "organizations",
+    "billing",
+    "integrations",
+    "notch-integrations",
+    "testimonials"
+  ]
+}
