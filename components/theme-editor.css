@@ -1,0 +1,34 @@
+.aurora-theme-menu,.aurora-theme-color{position:fixed;z-index:90;max-height:192px;overflow:auto;border-radius:8px;background:#fff;color:#131316;font-size:14px;line-height:20px;box-shadow:0 5px 15px #00000014,0 15px 35px -5px #191c2133,0 0 0 1px #0000001a;outline:none}
+.aurora-theme-menu [role=option]{position:relative;display:flex;align-items:center;justify-content:space-between;padding:7px 12px;cursor:default;outline:none;isolation:isolate}
+.aurora-theme-menu [role=option]:first-child{padding-top:10px}
+.aurora-theme-menu [role=option]:last-child{padding-bottom:10px}
+.aurora-theme-menu [role=option]::before{content:"";position:absolute;inset:1px 4px;z-index:-1;border-radius:4px}
+.aurora-theme-menu [role=option][data-focused]::before{background:#f7f7f8}
+.aurora-theme-menu [role=option]>span{font-size:12px;color:#747686}
+.aurora-theme-color{width:264px;max-height:none;padding:16px}
+.aurora-theme-color input[type=color]{display:block;width:100%;height:200px;cursor:pointer;border:0;padding:0;background:transparent}
+.aurora-theme-color-hex{margin-top:16px;width:100%;height:30px;border-radius:6px;padding:0 12px;box-shadow:0 0 0 1px #0000001a;font-size:14px;background:white;color:#131316}
+.aurora-theme-sheet-overlay{position:fixed;inset:0;z-index:70;background:#0000}
+.aurora-theme-sheet{position:absolute;bottom:0;left:0;right:0;max-height:100%;height:90dvh;display:flex;flex-direction:column;overflow:hidden;border-radius:6px 6px 0 0;background:white;color:#131316;box-shadow:0 5px 15px #00000014,0 15px 35px -5px #191c2133;outline:none}
+.aurora-theme-sheet>header,.aurora-theme-sheet>footer{flex:none}
+.aurora-theme-sheet>div:not(.aurora-theme-notch){min-height:0;overflow-y:auto;overscroll-behavior:contain}
+.aurora-theme-sheet>footer{margin-top:auto}
+.aurora-theme-notch{flex:none;width:40px;height:6px;margin:10px auto 0;border-radius:999px;background:#d9d9de;touch-action:none;cursor:grab}
+.dark .aurora-theme-menu,.dark .aurora-theme-color,.dark .aurora-theme-sheet{background:#131316;color:#f7f7f8;box-shadow:0 -1px #ffffff0d,0 0 0 1px #ffffff1a,0 0 0 1px #212126,0 2px 3px -1px #0006}
+.dark .aurora-theme-menu [role=option][data-focused]::before{background:#212126}
+.dark .aurora-theme-color-hex{background:#26262b;color:white;box-shadow:0 0 0 1px #ffffff1a}
+.dark .aurora-theme-notch{background:#42434d}
+@media(min-width:512px){.aurora-theme-sheet>header,.aurora-theme-sheet>footer,.aurora-theme-sheet>div{width:100%;max-width:512px;align-self:center}.aurora-theme-sheet>.aurora-theme-notch{width:40px}}
+@media(prefers-reduced-motion:reduce){[data-theme-editor] [style*="transition"],.aurora-theme-sheet *{transition:none!important}}
+.aurora-theme-color{width:257px;padding:16px;display:flex;flex-direction:column;gap:16px;border:1px solid #e5e5e5;border-radius:6px;box-shadow:0 10px 15px -3px #0000001a,0 4px 6px -4px #0000001a}
+.aurora-theme-color-area{position:relative;flex:none;height:128px;width:100%;border-radius:4px;touch-action:none;outline:none}
+.aurora-theme-color-hue{position:relative;flex:none;height:24px;width:100%;border-radius:4px;background:linear-gradient(to right,red,#ff0,#0f0,#0ff,#00f,#f0f,red)}
+.aurora-theme-color-hue input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;margin:0}
+.aurora-theme-color-thumb{position:absolute;top:50%;width:16px;height:16px;border:2px solid white;border-radius:50%;box-shadow:0 4px 6px -1px #0000001a,0 2px 4px -2px #0000001a;transform:translate(-50%,-50%);pointer-events:none}
+.aurora-theme-color-area:focus-visible .aurora-theme-color-thumb,.aurora-theme-color-hue:has(input:focus-visible) .aurora-theme-color-thumb{outline:2px solid #6c47ff;outline-offset:2px}
+.dark .aurora-theme-color{background:#212126;border-color:#42434d}
+[data-theme-editor] [role=tab][aria-selected=true],.aurora-theme-sheet [role=tab][aria-selected=true]{color:#131316}
+[data-theme-editor] [role=tab][aria-selected=false],.aurora-theme-sheet [role=tab][aria-selected=false]{color:#5e5f6e}
+.dark [data-theme-editor] [role=tab][aria-selected=true],.dark .aurora-theme-sheet [role=tab][aria-selected=true]{color:white}
+.dark [data-theme-editor] [role=tab][aria-selected=false],.dark .aurora-theme-sheet [role=tab][aria-selected=false]{color:#9c9da8}
+@media(min-width:1024px){.aurora-theme-welcome-copy{letter-spacing:-0.125px}}
