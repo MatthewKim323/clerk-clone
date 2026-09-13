@@ -1,0 +1,8 @@
+html[data-preview-theme="simple"] .cl-cardBox{border-width:1px!important;box-shadow:initial!important}
+html[data-preview-theme="simple"] .cl-card{border-width:1px!important;box-shadow:initial!important}
+html[data-preview-theme="shadcn"] .cl-cardBox{border-width:1px!important;box-shadow:initial!important}
+html[data-preview-theme="shadcn"] .cl-card{border-width:1px!important;box-shadow:initial!important}
+html[data-preview-theme="shadcn"] .cl-cardBox,html[data-preview-theme="shadcn"] .cl-popoverBox{box-shadow:0 1px 3px 0 rgb(0 0 0 / .1),0 1px 2px -1px rgb(0 0 0 / .1)!important;border-width:1px!important}
+html[data-preview-theme="shadcn"] .cl-formFieldInput{background:transparent!important}
+html.dark[data-preview-theme="shadcn"] .cl-formFieldInput{background:color-mix(in srgb,var(--input),transparent 70%)!important}
+html[data-preview-theme="shadcn"] .cl-button[data-variant="solid"]::after{display:none!important}
