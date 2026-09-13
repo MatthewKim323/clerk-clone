@@ -1,0 +1,68 @@
+#components .aurora-demo-disclosure > div {
+  grid-row: auto;
+}
+
+#components .aurora-demo-mobile-track {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #components .aurora-demo-desktop-track {
+    display: none;
+  }
+
+  #components .aurora-demo-mobile-track {
+    display: flex;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #components [data-demo-track],
+  #components [data-demo-card],
+  #components [data-demo-image],
+  #components .aurora-demo-disclosure {
+    transition-duration: 0ms;
+    transition-delay: 0ms;
+  }
+}
+
+#components .aurora-demo-tour-shell {
+  display: contents;
+}
+
+@property --aurora-demo-digit-d {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+#components .aurora-demo-number {
+  overflow: hidden;
+  white-space: nowrap;
+  mask-image: linear-gradient(to bottom, transparent 0, #000 .25em, #000 calc(100% - .25em), transparent 100%);
+}
+
+#components .aurora-demo-digit {
+  position: relative;
+  display: inline-block;
+  --c: calc(var(--current) + var(--aurora-demo-digit-d));
+}
+
+#components .aurora-demo-digit > span {
+  display: inline-block;
+  --offset-raw: mod(10 + var(--n) - mod(var(--c), 10), 10);
+  --offset: calc(var(--offset-raw) - 10 * round(down, var(--offset-raw) / 5, 1));
+  --y: clamp(-100%, var(--offset) * 100%, 100%);
+  transform: translateY(var(--y));
+}
+
+#components .aurora-demo-digit > [inert] {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(var(--y));
+}
+
+#components .aurora-demo-digit:not(.is-spinning) > [inert] {
+  display: none;
+}
