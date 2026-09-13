@@ -1,0 +1,8 @@
+.sdk-tab-selected { box-shadow: 0 1px rgb(255 255 255 / .08) inset, 0 0 0 1px rgb(255 255 255 / .04) inset; }
+[data-sdk-control] button[role="switch"] { transition: background-color 100ms, justify-content 100ms; }
+.sdk-options-overlay > div { transform-origin: bottom; }
+@property --sdk-expo-p { syntax: '<length>'; inherits: false; initial-value: 0px; }
+@property --sdk-expo-t { syntax: '<length>'; inherits: false; initial-value: 0px; }
+.sdk-expo-seek-dots { --dot-size: 1px; --total-size: 8px; background: repeating-linear-gradient(33deg, rgba(100,81,255,.71) calc(var(--sdk-expo-p) + 0px), rgba(100,155,255,.5) calc(var(--sdk-expo-p) + 300px), rgba(100,229,255,.8) calc(var(--sdk-expo-p) + 600px), rgba(100,81,255,.71) calc(var(--sdk-expo-p) + 900px)); mask-image: conic-gradient(from -.25turn at var(--dot-size) var(--dot-size), black 0% 25%, transparent 25% 100%), repeating-radial-gradient(circle at -280px 50%, black calc(var(--sdk-expo-t) + 0px), rgb(0 0 0 / .3) calc(var(--sdk-expo-t) + 80px) calc(var(--sdk-expo-t) + 200px), black calc(var(--sdk-expo-t) + 400px)); mask-size: var(--total-size) var(--total-size), auto; mask-position: calc((var(--total-size) - var(--dot-size))*.5), 0 0; mask-composite: intersect; animation: sdk-expo-t .6s linear infinite, sdk-expo-p 10s linear infinite; }
+@keyframes sdk-expo-p { to { --sdk-expo-p: 900px; } }
+@keyframes sdk-expo-t { to { --sdk-expo-t: 400px; } }
