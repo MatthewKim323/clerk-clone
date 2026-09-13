@@ -1,0 +1,522 @@
+{
+  "auditedAt": "2026-09-13T21:02:58.849Z",
+  "routeCount": 64,
+  "complete": 64,
+  "widths": 256,
+  "issueCount": 0,
+  "moduleIdentifierIssues": [],
+  "routes": [
+    {
+      "route": "/agents",
+      "status": "complete",
+      "widths": 4,
+      "assets": 34,
+      "modules": 34,
+      "issues": []
+    },
+    {
+      "route": "/billing",
+      "status": "complete",
+      "widths": 4,
+      "assets": 88,
+      "modules": 34,
+      "issues": []
+    },
+    {
+      "route": "/blog",
+      "status": "complete",
+      "widths": 4,
+      "assets": 76,
+      "modules": 34,
+      "issues": []
+    },
+    {
+      "route": "/careers",
+      "status": "complete",
+      "widths": 4,
+      "assets": 107,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/changelog",
+      "status": "complete",
+      "widths": 4,
+      "assets": 88,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/changelog/2026-08-21-custom-oauth-scopes",
+      "status": "complete",
+      "widths": 4,
+      "assets": 34,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/changelog/2026-08-25-admin-logs",
+      "status": "complete",
+      "widths": 4,
+      "assets": 50,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/changelog/2026-08-28-customize-reverification-window",
+      "status": "complete",
+      "widths": 4,
+      "assets": 41,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/changelog/2026-09-08-device-authorization-grant",
+      "status": "complete",
+      "widths": 4,
+      "assets": 42,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/cli",
+      "status": "complete",
+      "widths": 4,
+      "assets": 46,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/company",
+      "status": "complete",
+      "widths": 4,
+      "assets": 69,
+      "modules": 32,
+      "issues": []
+    },
+    {
+      "route": "/components/checkout-button",
+      "status": "complete",
+      "widths": 4,
+      "assets": 41,
+      "modules": 36,
+      "issues": []
+    },
+    {
+      "route": "/components/create-organization",
+      "status": "complete",
+      "widths": 4,
+      "assets": 58,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/components/organization-list",
+      "status": "complete",
+      "widths": 4,
+      "assets": 54,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/components/organization-profile",
+      "status": "complete",
+      "widths": 4,
+      "assets": 65,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/components/organization-switcher",
+      "status": "complete",
+      "widths": 4,
+      "assets": 56,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/components/pricing-table",
+      "status": "complete",
+      "widths": 4,
+      "assets": 47,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/components/sign-in",
+      "status": "complete",
+      "widths": 4,
+      "assets": 38,
+      "modules": 114,
+      "issues": []
+    },
+    {
+      "route": "/components/sign-up",
+      "status": "complete",
+      "widths": 4,
+      "assets": 45,
+      "modules": 102,
+      "issues": []
+    },
+    {
+      "route": "/components/user-button",
+      "status": "complete",
+      "widths": 4,
+      "assets": 57,
+      "modules": 101,
+      "issues": []
+    },
+    {
+      "route": "/components/user-profile",
+      "status": "complete",
+      "widths": 4,
+      "assets": 48,
+      "modules": 100,
+      "issues": []
+    },
+    {
+      "route": "/components/waitlist",
+      "status": "complete",
+      "widths": 4,
+      "assets": 46,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/contact",
+      "status": "complete",
+      "widths": 4,
+      "assets": 36,
+      "modules": 32,
+      "issues": []
+    },
+    {
+      "route": "/creators",
+      "status": "complete",
+      "widths": 4,
+      "assets": 60,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/docs",
+      "status": "complete",
+      "widths": 4,
+      "assets": 40,
+      "modules": 52,
+      "issues": []
+    },
+    {
+      "route": "/docs/astro/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/chrome-extension/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/expo/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/expressjs/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/billing/overview",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/configure/auth-strategies/sign-up-sign-in-options",
+      "status": "complete",
+      "widths": 4,
+      "assets": 34,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/customizing-aurora/overview",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/organizations/overview",
+      "status": "complete",
+      "widths": 4,
+      "assets": 33,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/nextjs/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/react-router/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/react/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/docs/tanstack-react-start/getting-started/quickstart",
+      "status": "complete",
+      "widths": 4,
+      "assets": 32,
+      "modules": 44,
+      "issues": []
+    },
+    {
+      "route": "/enterprise-authentication",
+      "status": "complete",
+      "widths": 4,
+      "assets": 49,
+      "modules": 34,
+      "issues": []
+    },
+    {
+      "route": "/multi-tenancy",
+      "status": "complete",
+      "widths": 4,
+      "assets": 46,
+      "modules": 97,
+      "issues": []
+    },
+    {
+      "route": "/platform",
+      "status": "complete",
+      "widths": 4,
+      "assets": 43,
+      "modules": 33,
+      "issues": []
+    },
+    {
+      "route": "/pricing",
+      "status": "complete",
+      "widths": 4,
+      "assets": 62,
+      "modules": 95,
+      "issues": []
+    },
+    {
+      "route": "/sign-in",
+      "status": "complete",
+      "widths": 4,
+      "assets": 20,
+      "modules": 85,
+      "issues": []
+    },
+    {
+      "route": "/sign-up",
+      "status": "complete",
+      "widths": 4,
+      "assets": 19,
+      "modules": 84,
+      "issues": []
+    },
+    {
+      "route": "/user-authentication",
+      "status": "complete",
+      "widths": 4,
+      "assets": 69,
+      "modules": 105,
+      "issues": []
+    },
+    {
+      "route": "/waitlist",
+      "status": "complete",
+      "widths": 4,
+      "assets": 79,
+      "modules": 35,
+      "issues": []
+    },
+    {
+      "route": "/components/theme-editor",
+      "status": "complete",
+      "widths": 4,
+      "assets": 26,
+      "modules": 106,
+      "issues": []
+    },
+    {
+      "route": "/brand-assets",
+      "status": "complete",
+      "widths": 4,
+      "assets": 35,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/glossary",
+      "status": "complete",
+      "widths": 4,
+      "assets": 21,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/startups",
+      "status": "complete",
+      "widths": 4,
+      "assets": 37,
+      "modules": 106,
+      "issues": []
+    },
+    {
+      "route": "/security",
+      "status": "complete",
+      "widths": 4,
+      "assets": 28,
+      "modules": 107,
+      "issues": []
+    },
+    {
+      "route": "/blog/series-c",
+      "status": "complete",
+      "widths": 4,
+      "assets": 65,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/react-authentication",
+      "status": "complete",
+      "widths": 4,
+      "assets": 96,
+      "modules": 106,
+      "issues": []
+    },
+    {
+      "route": "/nextjs-authentication",
+      "status": "complete",
+      "widths": 4,
+      "assets": 97,
+      "modules": 106,
+      "issues": []
+    },
+    {
+      "route": "/expo-authentication",
+      "status": "complete",
+      "widths": 4,
+      "assets": 35,
+      "modules": 108,
+      "issues": []
+    },
+    {
+      "route": "/github-student-developer-pack",
+      "status": "complete",
+      "widths": 4,
+      "assets": 149,
+      "modules": 107,
+      "issues": []
+    },
+    {
+      "route": "/llm-leaderboard",
+      "status": "complete",
+      "widths": 4,
+      "assets": 37,
+      "modules": 105,
+      "issues": []
+    },
+    {
+      "route": "/legal/standard-terms",
+      "status": "complete",
+      "widths": 4,
+      "assets": 22,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/legal/privacy",
+      "status": "complete",
+      "widths": 4,
+      "assets": 22,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/legal/website-terms",
+      "status": "complete",
+      "widths": 4,
+      "assets": 22,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/legal",
+      "status": "complete",
+      "widths": 4,
+      "assets": 22,
+      "modules": 104,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/development/integrations/overview",
+      "status": "complete",
+      "widths": 4,
+      "assets": 41,
+      "modules": 103,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/development/integrations/databases/supabase",
+      "status": "complete",
+      "widths": 4,
+      "assets": 21,
+      "modules": 103,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/development/integrations/databases/convex",
+      "status": "complete",
+      "widths": 4,
+      "assets": 21,
+      "modules": 103,
+      "issues": []
+    },
+    {
+      "route": "/docs/guides/development/integrations/platforms/vercel-marketplace",
+      "status": "complete",
+      "widths": 4,
+      "assets": 22,
+      "modules": 106,
+      "issues": []
+    }
+  ]
+}

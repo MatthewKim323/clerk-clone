@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-09-13T22:05:00.406Z",
+  "typecheck": {
+    "pass": true,
+    "log": "final-typecheck.log"
+  },
+  "build": {
+    "pass": true,
+    "log": "final-build.log"
+  },
+  "baseUrl": "http://localhost:3781",
+  "serverLog": "production-server.log"
+}

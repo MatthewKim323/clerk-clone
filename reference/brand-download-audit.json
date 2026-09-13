@@ -1,0 +1,342 @@
+{
+  "links": [
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-7a5ede15834d9df5.png",
+      "name": "aurora-logotype-full-primary.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-d5c9b00374546a56.svg",
+      "name": "aurora-logotype-full-primary.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-3710a07558d71858.png",
+      "name": "aurora-logotype-full-primary-light.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-03ab0a03335d8b05.svg",
+      "name": "aurora-logotype-full-primary-light.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-fa4ba767500b8d3a.png",
+      "name": "aurora-logotype-full-primary-dark.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-bf8c923f9cb1caa3.svg",
+      "name": "aurora-logotype-full-primary-dark.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-7ba0bc26b86c7838.png",
+      "name": "aurora-symbol-primary.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-77cfa6cf787cbee9.svg",
+      "name": "aurora-symbol-primary.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-c1931e6740672065.png",
+      "name": "aurora-symbol-dark.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-1c75933c7316fd6f.svg",
+      "name": "aurora-symbol-dark.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-88c219e23d7bac4c.png",
+      "name": "aurora-symbol-light.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-03651cb6bdeddcd6.svg",
+      "name": "aurora-symbol-light.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-2d35bd85ce6f5066.png",
+      "name": "aurora-avatar-circle-primary-light.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-c994869dc1b2637a.svg",
+      "name": "aurora-avatar-circle-primary-light.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-97034509833e03f6.png",
+      "name": "aurora-avatar-circle-primary-dark.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-be8013f2ede3e990.svg",
+      "name": "aurora-avatar-circle-primary-dark.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-d22e5dcf83e8ecb4.png",
+      "name": "aurora-avatar-circle-light.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-55fee900a8fb567d.svg",
+      "name": "aurora-avatar-circle-light.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-bc99ca3fc78a0a49.png",
+      "name": "aurora-avatar-circle-dark.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-b21bb4f4e69258d0.svg",
+      "name": "aurora-avatar-circle-dark.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-90bac5fcdb72dc81.png",
+      "name": "aurora-avatar-square-primary-light.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-5542c88a49240c90.svg",
+      "name": "aurora-avatar-square-primary-light.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-3b8a64cc94394791.png",
+      "name": "aurora-avatar-square-primary-dark.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-6fd10f10f5673407.svg",
+      "name": "aurora-avatar-square-primary-dark.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-ec333cb4300ac4ad.png",
+      "name": "aurora-avatar-square-light.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-459459b53e18096b.svg",
+      "name": "aurora-avatar-square-light.svg",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-0b4413e9bf6780f3.png",
+      "name": "aurora-avatar-square-dark.png",
+      "exists": true,
+      "local": true
+    },
+    {
+      "variant": "bodyHtml",
+      "href": "/assets/img-ecfa38f2285c5ba4.svg",
+      "name": "aurora-avatar-square-dark.svg",
+      "exists": true,
+      "local": true
+    }
+  ],
+  "dimensions": [
+    {
+      "name": "logotype-full-primary",
+      "width": 3301,
+      "height": 960,
+      "expected": [
+        3301,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "logotype-full-primary-light",
+      "width": 3301,
+      "height": 960,
+      "expected": [
+        3301,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "logotype-full-primary-dark",
+      "width": 3301,
+      "height": 960,
+      "expected": [
+        3301,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "symbol-primary",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "symbol-dark",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "symbol-light",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-circle-primary-light",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-circle-primary-dark",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-circle-light",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-circle-dark",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-square-primary-light",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-square-primary-dark",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-square-light",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    },
+    {
+      "name": "avatar-square-dark",
+      "width": 960,
+      "height": 960,
+      "expected": [
+        960,
+        960
+      ],
+      "svgHasAurora": true
+    }
+  ]
+}
