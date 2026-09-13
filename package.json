@@ -1,0 +1,23 @@
+{
+  "name": "aurora-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3781",
+    "build": "next build",
+    "start": "next start --port 3781",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "motion": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "^5.9.0"
+  }
+}

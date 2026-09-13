@@ -1,0 +1,55 @@
+# Local dependencies, tooling, and build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+tooling/
+
+# Local environment and machine files
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# Raw captures, recordings, and private source metadata stay local.
+reference/**
+reference/**/.origin.json
+
+# Keep the final specifications and verification summaries.
+!reference/component-runtime-checks/
+!reference/docs-sidebar-final-pixels/
+!reference/sdk-hero-lifecycle/
+!reference/sdk-install-counter-check/
+!reference/site/
+!reference/theme-editor-previews/
+!reference/site/motion/
+!reference/PAGES.md
+!reference/CONVENTIONS.md
+!reference/VERIFICATION.md
+!reference/site/motion/component-specs.md
+!reference/site/motion/transitions.json
+!reference/verification-summary.json
+!reference/routes-verification-final.json
+!reference/pixel-coverage-summary.json
+!reference/final-pixel-review.json
+!reference/production-checks.json
+!reference/routes-artifact-audit.json
+!reference/brand-download-audit.json
+!reference/final-text-audit.json
+!reference/home-motion-final-review.json
+!reference/sdk-pixel-review.json
+!reference/component-page-behavior-coverage.json
+!reference/component-final-runtime-verification.json
+!reference/platform-decorations-review.json
+!reference/docs-label-final-check.json
+!reference/docs-sidebar-final-pixels/report.json
+!reference/sdk-hero-lifecycle/report.json
+!reference/sdk-install-counter-check/report.json
+!reference/sdk-install-counter-check/reduced-motion.json
+!reference/sdk-install-counter-check/visual.json
+!reference/theme-editor-previews/final-production-audit.json
+!reference/component-runtime-checks/final-notes.md
+
+# Never publish private origin metadata.
+reference/**/.origin.json
