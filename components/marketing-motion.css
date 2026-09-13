@@ -1,0 +1,4 @@
+.mm-canvas { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.mm-terminal-cursor { display: inline-block; width: 1ch; height: 1.05em; transform: translateY(.14em); background: currentColor; vertical-align: baseline; animation: mm-terminal-blink 1s steps(1,end) infinite; }
+@keyframes mm-terminal-blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .mm-terminal-cursor { animation: none; } }
