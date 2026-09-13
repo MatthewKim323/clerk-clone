@@ -1,0 +1,109 @@
+{
+  "cases": [
+    {
+      "viewport": "desktop",
+      "source": {
+        "x": 1115.453125,
+        "y": 370,
+        "w": 204.546875,
+        "h": 80,
+        "visible": true
+      },
+      "build": {
+        "x": 1115.515625,
+        "y": 370,
+        "w": 204.484375,
+        "h": 80,
+        "visible": true
+      },
+      "diff": [
+        {
+          "name": "page",
+          "differ": 0.004283536585365854
+        }
+      ],
+      "pass": true
+    },
+    {
+      "viewport": "tablet",
+      "source": {
+        "x": 787.453125,
+        "y": 370,
+        "w": 204.546875,
+        "h": 80,
+        "visible": true
+      },
+      "build": {
+        "x": 787.515625,
+        "y": 370,
+        "w": 204.484375,
+        "h": 80,
+        "visible": true
+      },
+      "diff": [
+        {
+          "name": "page",
+          "differ": 0.004329268292682927
+        }
+      ],
+      "pass": true
+    },
+    {
+      "viewport": "tablet-810",
+      "source": {
+        "x": 552.453125,
+        "y": 370,
+        "w": 204.546875,
+        "h": 80,
+        "visible": true
+      },
+      "build": {
+        "x": 552.515625,
+        "y": 370,
+        "w": 204.484375,
+        "h": 80,
+        "visible": true
+      },
+      "diff": [
+        {
+          "name": "page",
+          "differ": 0.004314024390243903
+        }
+      ],
+      "pass": true
+    },
+    {
+      "viewport": "mobile",
+      "source": {
+        "x": 24,
+        "y": 362,
+        "w": 342,
+        "h": 68,
+        "visible": true
+      },
+      "build": {
+        "x": 24,
+        "y": 362,
+        "w": 342,
+        "h": 68,
+        "visible": true
+      },
+      "diff": [
+        {
+          "name": "page",
+          "differ": 0.0033969728242174064
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "pass": true,
+  "visualReview": {
+    "status": "PASS",
+    "reviewedAllFourPairs": true,
+    "maximumDifferencePercent": 0.433,
+    "finding": "Final number, label, gradient and placement match. Desktop number container width differs by 0.0625 CSS px; mobile box is exact. Residual glyph rasterization is below 0.44%.",
+    "supersedes": "Original per-viewport stat crops could include the cookie banner; the centered crops keep both the source and build stat visible."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "errors": [],
+  "final": {
+    "text": "9,030,790",
+    "label": "npm installs last month",
+    "states": [
+      {
+        "state": "waiting",
+        "time": 569.4000000357628,
+        "label": ""
+      },
+      {
+        "state": "typing",
+        "time": 585.5,
+        "label": ""
+      },
+      {
+        "state": "complete",
+        "time": 1839.4000000357628,
+        "label": "npm installs last month"
+      }
+    ],
+    "reels": 0,
+    "docHeight": 15238
+  },
+  "once": true,
+  "delay": 1253.9000000357628,
+  "pass": true
+}

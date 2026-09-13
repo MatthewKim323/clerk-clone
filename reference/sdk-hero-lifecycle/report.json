@@ -1,0 +1,1157 @@
+{
+  "nativeClock": "Pause suppresses rendering but retains the initial time origin. Resume advances by the elapsed hidden interval.",
+  "checks": [
+    {
+      "route": "/react-authentication",
+      "viewport": "desktop",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.71670001745224
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.7666000127792358
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.7666000127792358
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.69980001449585
+      },
+      "footerHeader": "dark",
+      "geometry": {
+        "docHeight": 10745,
+        "rect": {
+          "x": 698,
+          "y": 78,
+          "w": 622,
+          "h": 567.90625
+        },
+        "expectedHeight": 10745,
+        "sourceRect": {
+          "x": 698,
+          "y": 78,
+          "w": 622,
+          "h": 567.91
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 9845,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 663,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 643,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 727,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1755,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 1735,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1819,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 9845,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.005615827186107269
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/react-authentication",
+      "viewport": "tablet",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.41659998893737793
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.44999998807907104
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.44999998807907104
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.466400146484375
+      },
+      "footerHeader": "dark",
+      "geometry": {
+        "docHeight": 10817,
+        "rect": {
+          "x": 498,
+          "y": 78,
+          "w": 622,
+          "h": 567.90625
+        },
+        "expectedHeight": 10817,
+        "sourceRect": {
+          "x": 498,
+          "y": 78,
+          "w": 622,
+          "h": 567.91
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 9917,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 663,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 643,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 727,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1755,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 1735,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1819,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 9917,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.0076200239885892114
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/react-authentication",
+      "viewport": "tablet-810",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.4499000012874603
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.48330000042915344
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.48330000042915344
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.466400146484375
+      },
+      "footerHeader": "dark",
+      "geometry": {
+        "docHeight": 12940,
+        "rect": {
+          "x": 199,
+          "y": 78,
+          "w": 622,
+          "h": 567.90625
+        },
+        "expectedHeight": 12940,
+        "sourceRect": {
+          "x": 199,
+          "y": 78,
+          "w": 622,
+          "h": 567.91
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 12040,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 667,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 647,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 731,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1871,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 1851,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1935,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 12040,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.0047769456756160105
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/react-authentication",
+      "viewport": "mobile",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.4000000059604645
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.4000000059604645
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.4000000059604645
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.516499996185303
+      },
+      "footerHeader": "dark",
+      "geometry": {
+        "docHeight": 14329,
+        "rect": {
+          "x": 104,
+          "y": 82,
+          "w": 622,
+          "h": 567.90625
+        },
+        "expectedHeight": 14329,
+        "sourceRect": {
+          "x": 104,
+          "y": 82,
+          "w": 622,
+          "h": 567.91
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 13485,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 675,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 655,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 739,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1911,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 1891,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1975,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 13362,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.005504099075527647
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/nextjs-authentication",
+      "viewport": "desktop",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.5498999953269958
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.5498999953269958
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.5498999953269958
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.49970006942749
+      },
+      "footerHeader": "light",
+      "geometry": {
+        "docHeight": 11024,
+        "rect": {
+          "x": 884,
+          "y": 154,
+          "w": 436,
+          "h": 508.65625
+        },
+        "expectedHeight": 11024,
+        "sourceRect": {
+          "x": 884,
+          "y": 154,
+          "w": 436,
+          "h": 508.66
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 10124,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 783,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 763,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 847,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1913,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1893,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1977,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3005,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 2985,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3069,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 8325,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 8305,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 8389,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 10124,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.006584453670752603
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/nextjs-authentication",
+      "viewport": "tablet",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3833000063896179
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.41670000553131104
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.41670000553131104
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.383200168609619
+      },
+      "footerHeader": "light",
+      "geometry": {
+        "docHeight": 11025,
+        "rect": {
+          "x": 684,
+          "y": 154,
+          "w": 436,
+          "h": 508.65625
+        },
+        "expectedHeight": 11025,
+        "sourceRect": {
+          "x": 684,
+          "y": 154,
+          "w": 436,
+          "h": 508.66
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 10125,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 783,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 763,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 847,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1913,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1893,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1977,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3005,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 2985,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3069,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 8310,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 8290,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 8374,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 10125,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.00922144915851127
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/nextjs-authentication",
+      "viewport": "tablet-810",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3833000063896179
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3833000063896179
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3833000063896179
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.349800109863281
+      },
+      "footerHeader": "light",
+      "geometry": {
+        "docHeight": 13040,
+        "rect": {
+          "x": 385,
+          "y": 154,
+          "w": 436,
+          "h": 508.65625
+        },
+        "expectedHeight": 13040,
+        "sourceRect": {
+          "x": 385,
+          "y": 154,
+          "w": 436,
+          "h": 508.66
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 12140,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 783,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 763,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 847,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 2002,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1982,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 2066,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3206,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 3186,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3270,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 10227,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 10207,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 10291,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 12140,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.009400582868356691
+        }
+      ],
+      "pass": true
+    },
+    {
+      "route": "/nextjs-authentication",
+      "viewport": "mobile",
+      "initial": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3666999936103821
+      },
+      "hidden": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3666999936103821
+      },
+      "paused": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 0.3666999936103821
+      },
+      "resumed": {
+        "canvas": true,
+        "sameCanvas": true,
+        "sameContext": true,
+        "lost": false,
+        "time": 5.349800109863281
+      },
+      "footerHeader": "light",
+      "geometry": {
+        "docHeight": 15238,
+        "rect": {
+          "x": 104,
+          "y": 82,
+          "w": 436,
+          "h": 508.65625
+        },
+        "expectedHeight": 15238,
+        "sourceRect": {
+          "x": 104,
+          "y": 82,
+          "w": 436,
+          "h": 508.66
+        },
+        "pass": true
+      },
+      "cleanup": {
+        "disconnected": true,
+        "markerCount": 0,
+        "documentReplaced": true,
+        "contextLost": null
+      },
+      "headers": [
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 14394,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 0,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 755,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 735,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 819,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1986,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 1966,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 2050,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3222,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 3202,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 3286,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 11789,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 11769,
+          "actual": "dark",
+          "expected": "dark",
+          "pass": true
+        },
+        {
+          "scroll": 11853,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        },
+        {
+          "scroll": 14394,
+          "actual": "light",
+          "expected": "light",
+          "pass": true
+        }
+      ],
+      "diff": [
+        {
+          "name": "hero",
+          "differ": 0.010929683813119396
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "pass": true,
+  "cleanupAssertionCorrection": {
+    "original": "The check expected isContextLost() after navigating, but the raw homepage link destroyed the old document/window and its stored handle.",
+    "evidence": "All recorded cleanup samples have disconnected=true, markerCount=0 and no retained window handle. The browser navigation replaced the document.",
+    "corrected": "Accept document replacement as navigation cleanup; require isContextLost() only if the old document remains.",
+    "originalReport": "report-before-cleanup-assertion.json"
+  }
+}

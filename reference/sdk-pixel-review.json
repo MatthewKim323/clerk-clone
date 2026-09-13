@@ -1,0 +1,200 @@
+{
+  "status": "PASS",
+  "findings": [
+    {
+      "route": "/nextjs-authentication",
+      "kind": "defect",
+      "description": "Missing native SectionTheme annotations left the dark header over the white configurator, UI carousel and FAQ sections. Exact five wrappers are now captured and applied. The native ClientHeader pathname list supplies a dark fallback outside registered sections."
+    },
+    {
+      "route": "/nextjs-authentication",
+      "kind": "defect",
+      "description": "Blue Next.js quickstart card had an empty140px shader host. Native three-mask dotted N rendering and hover event are now bound."
+    },
+    {
+      "route": "/nextjs-authentication",
+      "kind": "runtime",
+      "description": "The native FAQ divider shader is now bound with source opacities and4px grid."
+    },
+    {
+      "route": "/react-authentication",
+      "kind": "runtime",
+      "description": "Native6 SDK logo hover shaders,5 circuit meteors,4 divider shaders, keyring hover, shield27 lines+9 rays and3-label security cycle are bound to existing DOM."
+    },
+    {
+      "route": "/react-authentication",
+      "kind": "review",
+      "description": "All four current images have section difference below1.17%; visual review shows matching section/card geometry. Main residuals are Aurora copy, package identifiers and source motion phase."
+    },
+    {
+      "route": "/expo-authentication",
+      "kind": "review",
+      "description": "All four current images have section difference below1.24%; visual review shows matching phone, security card and section geometry. Residuals include branding and shader/phone tour phase. No runtime values changed in this fix."
+    },
+    {
+      "route": "/react-authentication",
+      "kind": "regression-fixed",
+      "description": "A new fallback incorrectly read the neutral page ThemeProvider as the header default. Native ClientHeader145937 instead specifies dark for SDK paths. Corrected the extractor and fallback map; failed mobile footer sheet is preserved."
+    },
+    {
+      "route": "/react-authentication",
+      "kind": "lifecycle-fixed",
+      "description": "HeroDots882432 mounts once and pauses drawing without resetting the clock. The disposable canvas adapter restarted the4s hero reveal on scroll return. React and Next heroes now retain their renderer; source wall-clock advancement is preserved while offscreen."
+    },
+    {
+      "route": "/nextjs-authentication",
+      "kind": "defect-fixed",
+      "description": "The serialized NumberFlow fallback retained 0 because its shadow DOM was absent from the capture. Native InstallationTotal module 572492 receives 9,030,790 in RSC row 3a. The captured value, label typing, delay, continuous digit motion, once-only visibility and reduced-motion behavior are now implemented and verified."
+    }
+  ],
+  "headerEvidence": "reference/sdk-native-header-themes.json",
+  "selectorEvidence": "reference/sdk-fix-selector-audit.json",
+  "runtimeCheck": "scripts/verify-sdk-final-fixes.ts",
+  "limitations": [
+    "Shader, ray and phone-tour screenshots sample native effects at different phases; residual animation differences are phase-sensitive.",
+    "Aurora copy and package identifiers intentionally differ from the captured reference.",
+    "Failed initial SDK images, the mobile footer regression image and the original full-navigation cleanup assertion are preserved. Final evidence supersedes those findings."
+  ],
+  "runtimeEvidence": "reference/sdk-final-fixes/report.json",
+  "runtimeSummary": {
+    "headerRoutes": 3,
+    "headerWidths": 4,
+    "headerChecks": 12,
+    "effectChecks": 10,
+    "errors": [],
+    "heroLifecycleCases": 8,
+    "nativeHeaderBoundaryChecks": 104,
+    "retainerResizeCleanup": true,
+    "counterWidths": 4,
+    "counterReducedMotion": true,
+    "counterCenteredVisualPairs": 4
+  },
+  "finalFullPageEvidence": [
+    "reference/final-nextjs-pixels.json",
+    "reference/final-react-pixels.json",
+    "reference/final-react-mobile-pixels.json"
+  ],
+  "finalHeroEvidence": "reference/sdk-hero-lifecycle/report.json",
+  "initialPixelReview": {
+    "report": "reference/additional-dynamic-pixels.json",
+    "routes": [
+      {
+        "route": "/nextjs-authentication",
+        "width": 1440,
+        "maxSectionDifference": 0.06606778515240905,
+        "errors": []
+      },
+      {
+        "route": "/nextjs-authentication",
+        "width": 1024,
+        "maxSectionDifference": 0.0749598140210177,
+        "errors": []
+      },
+      {
+        "route": "/nextjs-authentication",
+        "width": 810,
+        "maxSectionDifference": 0.0685362420117684,
+        "errors": []
+      },
+      {
+        "route": "/nextjs-authentication",
+        "width": 390,
+        "maxSectionDifference": 0.07625727734423386,
+        "errors": []
+      },
+      {
+        "route": "/expo-authentication",
+        "width": 1440,
+        "maxSectionDifference": 0.005209490740740741,
+        "errors": []
+      },
+      {
+        "route": "/expo-authentication",
+        "width": 1024,
+        "maxSectionDifference": 0.007073567708333333,
+        "errors": []
+      },
+      {
+        "route": "/expo-authentication",
+        "width": 810,
+        "maxSectionDifference": 0.012291102077687443,
+        "errors": []
+      },
+      {
+        "route": "/expo-authentication",
+        "width": 390,
+        "maxSectionDifference": 0.005578458316974218,
+        "errors": []
+      },
+      {
+        "route": "/react-authentication",
+        "width": 1440,
+        "maxSectionDifference": 0.005701792300599354,
+        "errors": []
+      },
+      {
+        "route": "/react-authentication",
+        "width": 1024,
+        "maxSectionDifference": 0.010240399161479945,
+        "errors": []
+      },
+      {
+        "route": "/react-authentication",
+        "width": 810,
+        "maxSectionDifference": 0.007568733336729669,
+        "errors": []
+      },
+      {
+        "route": "/react-authentication",
+        "width": 390,
+        "maxSectionDifference": 0.011563652485842688,
+        "errors": []
+      }
+    ],
+    "supersededForReactAndNext": true
+  },
+  "finalCounterEvidence": {
+    "provenance": "reference/sdk-installation-total.json",
+    "runtime": "reference/sdk-install-counter-check/report.json",
+    "reducedMotion": "reference/sdk-install-counter-check/reduced-motion.json",
+    "visual": "reference/sdk-install-counter-check/visual.json",
+    "value": 9030790,
+    "labelTypingSeconds": 1,
+    "countDelayMs": 1250,
+    "digitMotionMs": 900,
+    "insertedGlyphFadeMs": 450,
+    "observedDelayMs": [
+      1254.5,
+      1257.8
+    ],
+    "observedDigitMotionMs": [
+      902,
+      904.8
+    ],
+    "sourceBoxMaximumDeltaCssPx": 0.0625,
+    "centeredPixelDifferencePercent": [
+      0.4284,
+      0.4329,
+      0.4314,
+      0.3397
+    ],
+    "visualReview": "All four unobscured stat pairs were inspected. Final digits, label, gradient, size and placement match; the remaining subpixel glyph rasterization difference is below 0.44%. Initial stat crops obscured by the cookie banner are preserved and superseded by centered crops."
+  },
+  "finalHeroReview": {
+    "report": "reference/sdk-hero-lifecycle/report.json",
+    "sameDocumentCleanup": "reference/sdk-hero-lifecycle/resize-cleanup.json",
+    "cases": 8,
+    "headers": 104,
+    "exactPageHeights": true,
+    "sourceCanvasBoxesMatch": true,
+    "review": "All eight hero pairs were inspected. The native React reveal remains complete after leaving and reentering; its retained clock advances while drawing is paused. The Next hero geometry matches. The only concrete stat omission found in these images is now superseded by the four final counter pairs."
+  },
+  "finalFooterReview": {
+    "report": "reference/final-react-mobile-pixels.json",
+    "route": "/react-authentication",
+    "width": 390,
+    "footerPixelDifferencePercent": 0.316,
+    "nativeHeader": "dark",
+    "errors": []
+  }
+}

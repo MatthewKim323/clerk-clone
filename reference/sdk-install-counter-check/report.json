@@ -1,0 +1,218 @@
+{
+  "source": "reference/sdk-installation-total.json",
+  "cases": [
+    {
+      "viewport": "desktop",
+      "pass": true,
+      "moving": {
+        "value": "9,030,790",
+        "animations": 17
+      },
+      "settled": {
+        "label": "npm installs last month",
+        "text": "9,030,790",
+        "accessible": "9,030,790",
+        "docHeight": 11024,
+        "rect": {
+          "x": 1115.515625,
+          "y": 723,
+          "w": 204.484375,
+          "h": 80
+        },
+        "states": [
+          {
+            "state": "waiting",
+            "time": 444.0999999642372
+          },
+          {
+            "state": "typing",
+            "time": 463.7999999523163
+          },
+          {
+            "state": "spinning",
+            "time": 1721.5999999642372
+          },
+          {
+            "state": "complete",
+            "time": 2623.599999964237
+          }
+        ]
+      },
+      "expectedHeight": 11024,
+      "sourceRect": {
+        "x": 1115.45,
+        "y": 723,
+        "w": 204.55,
+        "h": 80
+      },
+      "sizeMatches": true,
+      "once": true,
+      "times": {
+        "delay": 1257.800000011921,
+        "digits": 902
+      }
+    },
+    {
+      "viewport": "tablet",
+      "pass": true,
+      "moving": {
+        "value": "9,030,790",
+        "animations": 17
+      },
+      "settled": {
+        "label": "npm installs last month",
+        "text": "9,030,790",
+        "accessible": "9,030,790",
+        "docHeight": 11025,
+        "rect": {
+          "x": 787.515625,
+          "y": 723,
+          "w": 204.484375,
+          "h": 80
+        },
+        "states": [
+          {
+            "state": "waiting",
+            "time": 487.5
+          },
+          {
+            "state": "typing",
+            "time": 505.10000002384186
+          },
+          {
+            "state": "spinning",
+            "time": 1761.800000011921
+          },
+          {
+            "state": "complete",
+            "time": 2663.899999976158
+          }
+        ]
+      },
+      "expectedHeight": 11025,
+      "sourceRect": {
+        "x": 787.45,
+        "y": 723,
+        "w": 204.55,
+        "h": 80
+      },
+      "sizeMatches": true,
+      "once": true,
+      "times": {
+        "delay": 1256.699999988079,
+        "digits": 902.0999999642372
+      }
+    },
+    {
+      "viewport": "tablet-810",
+      "pass": true,
+      "moving": {
+        "value": "9,030,790",
+        "animations": 17
+      },
+      "settled": {
+        "label": "npm installs last month",
+        "text": "9,030,790",
+        "accessible": "9,030,790",
+        "docHeight": 13040,
+        "rect": {
+          "x": 552.515625,
+          "y": 723,
+          "w": 204.484375,
+          "h": 80
+        },
+        "states": [
+          {
+            "state": "waiting",
+            "time": 503.39999997615814
+          },
+          {
+            "state": "typing",
+            "time": 522.8999999761581
+          },
+          {
+            "state": "spinning",
+            "time": 1777.3999999761581
+          },
+          {
+            "state": "complete",
+            "time": 2682.199999988079
+          }
+        ]
+      },
+      "expectedHeight": 13040,
+      "sourceRect": {
+        "x": 552.45,
+        "y": 723,
+        "w": 204.55,
+        "h": 80
+      },
+      "sizeMatches": true,
+      "once": true,
+      "times": {
+        "delay": 1254.5,
+        "digits": 904.8000000119209
+      }
+    },
+    {
+      "viewport": "mobile",
+      "pass": true,
+      "moving": {
+        "value": "9,030,790",
+        "animations": 17
+      },
+      "settled": {
+        "label": "npm installs last month",
+        "text": "9,030,790",
+        "accessible": "9,030,790",
+        "docHeight": 15238,
+        "rect": {
+          "x": 24,
+          "y": 707,
+          "w": 342,
+          "h": 68
+        },
+        "states": [
+          {
+            "state": "waiting",
+            "time": 478.80000001192093
+          },
+          {
+            "state": "typing",
+            "time": 498.30000001192093
+          },
+          {
+            "state": "spinning",
+            "time": 1753.5
+          },
+          {
+            "state": "complete",
+            "time": 2655.699999988079
+          }
+        ]
+      },
+      "expectedHeight": 15238,
+      "sourceRect": {
+        "x": 24,
+        "y": 707,
+        "w": 342,
+        "h": 68
+      },
+      "sizeMatches": true,
+      "once": true,
+      "times": {
+        "delay": 1255.199999988079,
+        "digits": 902.1999999880791
+      }
+    }
+  ],
+  "errors": [],
+  "resizeCleanup": {
+    "oldDisconnected": true,
+    "oldContextLost": true,
+    "newCanvas": true,
+    "markers": 1,
+    "pass": true
+  },
+  "pass": true
+}
