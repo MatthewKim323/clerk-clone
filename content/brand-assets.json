@@ -1,0 +1,198 @@
+{
+  "logotype-full-primary": {
+    "svg": "/assets/img-d5c9b00374546a56.svg",
+    "png": "/assets/img-7a5ede15834d9df5.png",
+    "previewOriginal": "/assets/img-6f37c6c95c729d90.svg",
+    "downloadName": "aurora-logotype-full-primary",
+    "svgSize": [
+      441,
+      128
+    ],
+    "pngSize": [
+      3301,
+      960
+    ]
+  },
+  "logotype-full-primary-light": {
+    "svg": "/assets/img-03ab0a03335d8b05.svg",
+    "png": "/assets/img-3710a07558d71858.png",
+    "previewOriginal": "/assets/img-aec84de4d8a81e61.svg",
+    "downloadName": "aurora-logotype-full-primary-light",
+    "svgSize": [
+      441,
+      128
+    ],
+    "pngSize": [
+      3301,
+      960
+    ]
+  },
+  "logotype-full-primary-dark": {
+    "svg": "/assets/img-bf8c923f9cb1caa3.svg",
+    "png": "/assets/img-fa4ba767500b8d3a.png",
+    "previewOriginal": "/assets/img-b243b17771666a7f.svg",
+    "downloadName": "aurora-logotype-full-primary-dark",
+    "svgSize": [
+      441,
+      128
+    ],
+    "pngSize": [
+      3301,
+      960
+    ]
+  },
+  "symbol-primary": {
+    "svg": "/assets/img-77cfa6cf787cbee9.svg",
+    "png": "/assets/img-7ba0bc26b86c7838.png",
+    "previewOriginal": "/assets/img-e176af85b4fbdece.svg",
+    "downloadName": "aurora-symbol-primary",
+    "svgSize": [
+      128,
+      128
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "symbol-dark": {
+    "svg": "/assets/img-1c75933c7316fd6f.svg",
+    "png": "/assets/img-c1931e6740672065.png",
+    "previewOriginal": "/assets/img-5f18840eeee617e2.svg",
+    "downloadName": "aurora-symbol-dark",
+    "svgSize": [
+      128,
+      128
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "symbol-light": {
+    "svg": "/assets/img-03651cb6bdeddcd6.svg",
+    "png": "/assets/img-88c219e23d7bac4c.png",
+    "previewOriginal": "/assets/img-5195e4389ca03abf.svg",
+    "downloadName": "aurora-symbol-light",
+    "svgSize": [
+      128,
+      128
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-circle-primary-light": {
+    "svg": "/assets/img-c994869dc1b2637a.svg",
+    "png": "/assets/img-2d35bd85ce6f5066.png",
+    "previewOriginal": "/assets/img-cfff519279e0f247.svg",
+    "downloadName": "aurora-avatar-circle-primary-light",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-circle-primary-dark": {
+    "svg": "/assets/img-be8013f2ede3e990.svg",
+    "png": "/assets/img-97034509833e03f6.png",
+    "previewOriginal": "/assets/img-c28414f5d826ba54.svg",
+    "downloadName": "aurora-avatar-circle-primary-dark",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-circle-light": {
+    "svg": "/assets/img-55fee900a8fb567d.svg",
+    "png": "/assets/img-d22e5dcf83e8ecb4.png",
+    "previewOriginal": "/assets/img-dc9fa382a99cf164.svg",
+    "downloadName": "aurora-avatar-circle-light",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-circle-dark": {
+    "svg": "/assets/img-b21bb4f4e69258d0.svg",
+    "png": "/assets/img-bc99ca3fc78a0a49.png",
+    "previewOriginal": "/assets/img-7497e75d15aff92d.svg",
+    "downloadName": "aurora-avatar-circle-dark",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-square-primary-light": {
+    "svg": "/assets/img-5542c88a49240c90.svg",
+    "png": "/assets/img-90bac5fcdb72dc81.png",
+    "previewOriginal": "/assets/img-597ed56187839e33.svg",
+    "downloadName": "aurora-avatar-square-primary-light",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-square-primary-dark": {
+    "svg": "/assets/img-6fd10f10f5673407.svg",
+    "png": "/assets/img-3b8a64cc94394791.png",
+    "previewOriginal": "/assets/img-9ffdc3f42fc27d68.svg",
+    "downloadName": "aurora-avatar-square-primary-dark",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-square-light": {
+    "svg": "/assets/img-459459b53e18096b.svg",
+    "png": "/assets/img-ec333cb4300ac4ad.png",
+    "previewOriginal": "/assets/img-5dd282b3ed0815c2.svg",
+    "downloadName": "aurora-avatar-square-light",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  },
+  "avatar-square-dark": {
+    "svg": "/assets/img-ecfa38f2285c5ba4.svg",
+    "png": "/assets/img-0b4413e9bf6780f3.png",
+    "previewOriginal": "/assets/img-b0a7ee59d948aae0.svg",
+    "downloadName": "aurora-avatar-square-dark",
+    "svgSize": [
+      160,
+      160
+    ],
+    "pngSize": [
+      960,
+      960
+    ]
+  }
+}
